@@ -19,7 +19,7 @@
     "tr": "Güç Kablosu",
     "hr": "Energetski Kabel",
     "sr": "Energetski Kabl",
-    "pt-BR": "Cabo de Energia",
+    "pt-BR": "Cabo de Alimentação",
     "he": "כבל חשמל"
   },
   "description": {
@@ -41,7 +41,7 @@
     "tr": "Elektrik gücü iletimi için kullanılan ağır hizmet kablosu.",
     "hr": "Kabel za teške uvjete koji se koristi za prijenos električne energije.",
     "sr": "Kabl za teške uslove koji se koristi za prenos električne energije.",
-    "pt-BR": "Um cabo resistente usado para transmitir energia elétrica.",
+    "pt-BR": "Um cabo reforçado usado para transmitir energia elétrica.",
     "he": "כבל עמיד במיוחד המשמש להעברת כוח חשמלי."
   },
   "type": "Recyclable",

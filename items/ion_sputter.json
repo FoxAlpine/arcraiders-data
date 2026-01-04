@@ -18,7 +18,7 @@
     "uk": "Іонний розпилювач",
     "sr": "Jonski raspršivač",
     "hr": "Ionski raspršivač",
-    "pt-BR": "Pulverizador Iônico",
+    "pt-BR": "Pulverizador de Íons",
     "he": "ספטר יונים"
   },
   "description": {
@@ -40,7 +40,7 @@
     "uk": "Можна переробити на матеріали для крафту.",
     "sr": "Može se reciklirati u materijale za izradu.",
     "hr": "Može se reciklirati u materijale za izradu.",
-    "pt-BR": "Pode ser reciclado em materiais de criação.",
+    "pt-BR": "Pode ser reciclado em materiais de fabricação.",
     "he": "ניתן למחזור לחומרי יצירה."
   },
   "id": "ion_sputter",

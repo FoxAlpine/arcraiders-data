@@ -19,7 +19,7 @@
     "tr": "Gömülü Şehir Belediye Binası Anahtarı",
     "hr": "Ključ Gradske Vijećnice Zakopanog Grada",
     "sr": "Ključ Gradske Većnice Zakopanog Grada",
-    "pt-BR": "Chave da Prefeitura de Buried City",
+    "pt-BR": "Chave da Prefeitura da Cidade Soterrada",
     "he": "מפתח בית העירייה של העיר הקבורה"
   },
   "description": {
@@ -41,7 +41,7 @@
     "tr": "Gömülü Şehir'deki Belediye Binası kapısını açar",
     "hr": "Otključava vrata Gradske Vijećnice u Zakopanom Gradu",
     "sr": "Otključava vrata Gradske Većnice u Zakopanom Gradu",
-    "pt-BR": "Destranca a porta da Prefeitura em Buried City",
+    "pt-BR": "Desbloqueia a porta da Prefeitura na Cidade Soterrada",
     "he": "פותח את הדלת לבית העירייה בעיר הקבורה"
   },
   "type": "Key",

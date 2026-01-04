@@ -19,7 +19,7 @@
     "tr": "ARC Hareket Çekirdeği",
     "hr": "ARC Jezgra Pokreta",
     "sr": "ARC Jezgro Pokreta",
-    "pt-BR": "Núcleo de Movimento ARC",
+    "pt-BR": "Núcleo Motriz ARC",
     "he": "ליבת תנועה של ARC"
   },
   "description": {
@@ -41,7 +41,7 @@
     "tr": "ARC düşmanlarından veya aktivitelerden elde edilir. Bileşen üretiminde kullanılır. ARC Alaşımına geri dönüştürülebilir. Üretilebilir: Manyetik Hızlandırıcı",
     "hr": "Dobiva se od ARC neprijatelja ili aktivnosti. Koristi se za izradu komponenti. Može se reciklirati u ARC Leguru. Koristi se za izradu: Magnetski Akcelerator",
     "sr": "Dobija se od ARC neprijatelja ili aktivnosti. Koristi se za izradu komponenti. Može se reciklirati u ARC Leguru. Koristi se za izradu: Magnetski Akcelerator",
-    "pt-BR": "Obtido de inimigos ou atividades ARC. Usado para criar componentes. Pode ser reciclado em Liga ARC. Usado para criar: Acelerador Magnético",
+    "pt-BR": "Obtido de inimigos ARC ou atividades. Serve para fabricar componentes. Reciclar gera Liga ARC. Usado para fabricar: Munição de Lançador, Acelerador Magnético, Matilha de Lobos",
     "he": "ניתן להשגה מאויבי ARC או מפעילויות. משמש ליצירת רכיבים. ניתן למחזר ל-סגסוגת ARC. משמש ליצירת: מאיץ מגנטי"
   },
   "type": "Topside Material",

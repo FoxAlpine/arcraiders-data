@@ -41,7 +41,7 @@
     "tr": "Güneşte olgunlaşmış bir kayısı. Küçük miktarda dayanıklılık için tüketilebilir.",
     "hr": "Suncem dozrela marelica. Može se konzumirati za malu količinu izdržljivosti.",
     "sr": "Suncem dozrela kajsija. Može se konzumirati za malu količinu izdržljivosti.",
-    "pt-BR": "Um damasco amadurecido ao sol. Pode ser consumido para recuperar uma pequena quantidade de estamina.",
+    "pt-BR": "Um damasco maturado ao sol. Pode ser consumido para recuperar um pouco de vigor.",
     "he": "משמש שהבשיל בשמש. ניתן לאכילה עבור כמות קטנה של סיבולת."
   },
   "type": "Nature",
@@ -74,7 +74,7 @@
       "hr": "Izdržljivost",
       "sr": "Izdržljivost",
       "value": 20,
-      "pt-BR": "Estamina",
+      "pt-BR": "Vigor",
       "he": "סיבולת"
     },
     "Use Time": {

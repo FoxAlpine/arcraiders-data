@@ -19,7 +19,7 @@
     "kr": "래틀러 IV",
     "pl": "Rattler IV",
     "hr": "Rattler IV",
-    "pt-BR": "Rattler IV",
+    "pt-BR": "Matraca IV",
     "he": "רטלר IV"
   },
   "effects": {
@@ -43,7 +43,7 @@
       "pl": "Pojemność Magazynka",
       "hr": "Veličina Okvira",
       "value": 24,
-      "pt-BR": "Tamanho do Carregador",
+      "pt-BR": "Tamanho do Pente",
       "he": "גודל מחסנית"
     },
     "Durability": {
@@ -135,7 +135,7 @@
       "pl": "Przebicie Pancerza ARC",
       "hr": "ARC Probijanje Oklopa",
       "value": "Moderate",
-      "pt-BR": "Penetração de Blindagem ARC",
+      "pt-BR": "Penetração contra blindagem ARC",
       "he": "חדירת שריון ARC"
     }
   },

@@ -115,7 +115,7 @@
       "hr": "Veličina Spremnika",
       "sr": "Veličina Spremnika",
       "value": 20,
-      "pt-BR": "Tamanho do Carregador",
+      "pt-BR": "Tamanho do Pente",
       "he": "גודל מחסנית"
     },
     "Firing Mode": {
@@ -161,7 +161,7 @@
       "hr": "ARC Probijanje Oklopa",
       "sr": "ARC Probijanje Oklopa",
       "value": "Strong",
-      "pt-BR": "Penetração de Armadura ARC",
+      "pt-BR": "Penetração contra blindagem ARC",
       "he": "חדירת שריון ARC"
     },
     "Increased Fire Rate": {
@@ -184,7 +184,7 @@
       "hr": "Povećana brzina paljbe",
       "sr": "Povećана brzina paljbe",
       "value": "10%",
-      "pt-BR": "Cadência de Tiro Aumentada",
+      "pt-BR": "Aumento na Cadência de Tiro",
       "he": "קצב אש מוגבר"
     },
     "Reduced Reload Time": {
@@ -207,7 +207,7 @@
       "hr": "Smanjeno vrijeme punjenja",
       "sr": "Smanjeno vrijeme punjenja",
       "value": "22.2%",
-      "pt-BR": "Tempo de Recarga Reduzido",
+      "pt-BR": "Redução no Tempo para Recarregar",
       "he": "זמן טעינה מקוצר"
     }
   },

@@ -19,7 +19,7 @@
     "hr": "Izjednačivač",
     "pt": "Equalizador",
     "da": "Equalizer",
-    "pt-BR": "Equalizer",
+    "pt-BR": "Equalizador",
     "he": "אקוולייזר"
   },
   "description": {
@@ -41,7 +41,7 @@
     "hr": "Eksperimentalna zrakasta puška velikog kapaciteta.",
     "pt": "Um rifle de raios experimental de alta capacidade.",
     "da": "En eksperimentel stråleriffel med høj kapacitet.",
-    "pt-BR": "Um rifle de feixe experimental de alta capacidade.",
+    "pt-BR": "Um rifle de raios experimental de alta capacidade.",
     "he": "רובה קרן ניסיוני בעל קיבולת גבוהה."
   },
   "type": "LMG",
@@ -96,7 +96,7 @@
       "pt": "Tamanho do carregador",
       "da": "Magasinstørrelse",
       "value": 50,
-      "pt-BR": "Tamanho do Carregador",
+      "pt-BR": "Tamanho do Pente",
       "he": "גודל מחסנית"
     },
     "Firing Mode": {
@@ -142,7 +142,7 @@
       "pt": "Penetração de armadura ARC",
       "da": "ARC rustningspenetrering",
       "value": "Very Strong",
-      "pt-BR": "Penetração de Blindagem ARC",
+      "pt-BR": "Penetração contra blindagem ARC",
       "he": "חדירת שריון ARC"
     }
   },

@@ -19,7 +19,7 @@
     "tr": "Firtina Plani",
     "hr": "Oluja Nacrt",
     "sr": "Oluja Nacrt",
-    "pt-BR": "Diagrama da Tempest",
+    "pt-BR": "Projeto de Temporal",
     "he": "שרטוט טמפסט"
   },
   "description": {
@@ -41,7 +41,7 @@
     "tr": "Manyetik hizlandirma teknolojisini kullanan yuksek guclu bir silah.",
     "hr": "Mocno oruzje koje koristi tehnologiju magnetskog ubrzanja.",
     "sr": "Mocno oruzje koje koristi tehnologiju magnetskog ubrzanja.",
-    "pt-BR": "Uma arma de alta potência que utiliza tecnologia de aceleração magnética.",
+    "pt-BR": "Uma arma de alta potencia utilizando tecnologia de aceleração magnética.",
     "he": "נשק רב-עוצמה המשתמש בטכנולוגיית האצה מגנטית."
   },
   "type": "Blueprint",

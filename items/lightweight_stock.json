@@ -41,7 +41,7 @@
     "tr": "ADS ve çekme hızını orta düzeyde iyileştirir. Uyumlu silahlar: Arpeggio, Kettle, Ferro, Renegade, Hullcracker",
     "hr": "Umjereno poboljšava brzinu nišanjenja i izvlačenja. Kompatibilno s: Arpeggio, Kettle, Ferro, Renegade, Hullcracker",
     "sr": "Umereno poboljšava brzinu nišanjenja i izvlačenja. Kompatibilno sa: Arpeggio, Kettle, Ferro, Renegade, Hullcracker",
-    "pt-BR": "Melhora moderadamente a velocidade de mira e saque. Compatível com: Arpeggio, Kettle, Ferro, Renegade, Hullcracker",
+    "pt-BR": "Melhora moderadamente a velocidade de mira e saque. Compatível com: Arpeggio, Chaleira, Ferro, Renegado, Quebra-Casco",
     "he": "משפר במתינות את מהירות הכניסה לכוונת (ADS) והשליפה. תואם ל: Arpeggio, Kettle, Ferro, Renegade, Hullcracker"
   },
   "type": "Modification",
@@ -138,7 +138,7 @@
       "hr": "Povećan Vertikalni Trzaj",
       "sr": "Povećan Vertikalni Trzaj",
       "value": "50%",
-      "pt-BR": "Aumento do Recuo Vertical",
+      "pt-BR": "Recuo Vertical Aumentado",
       "he": "רתע אנכי מוגבר"
     },
     "Increased Recoil Recovery Time": {

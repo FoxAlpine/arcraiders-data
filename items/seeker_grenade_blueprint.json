@@ -19,7 +19,7 @@
     "tr": "İzleyici Bomba Planı",
     "hr": "Nacrt Tragačke granate",
     "sr": "Nacrt Tragačke granate",
-    "pt-BR": "Diagrama da Granada Rastreadora",
+    "pt-BR": "Projeto de Granada Rastreadora",
     "he": "שרטוט רימון ביות"
   },
   "description": {
@@ -41,7 +41,7 @@
     "tr": "İzleyici Bomba için üretim planını açar.",
     "hr": "Otključava nacrt izrade za Tragačku granatu.",
     "sr": "Otključava nacrt izrade za Tragačku granatu.",
-    "pt-BR": "Desbloqueia o diagrama de criação da Granada Rastreadora.",
+    "pt-BR": "Desbloqueia o projeto de fabricação da granada rastreadora.",
     "he": "פותח את שרטוט היצירה עבור רימון הביות."
   },
   "type": "Blueprint",

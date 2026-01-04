@@ -19,7 +19,7 @@
     "uk": "Креслення Газова міна",
     "sr": "Gasna mina Nacrt",
     "hr": "Plinska mina Nacrt",
-    "pt-BR": "Projeto de Mina de Gás",
+    "pt-BR": "Projeto de Mina Saltadora: Dano Contínuo ao Vigor",
     "he": "שרטוט מוקש גז"
   },
   "description": {
@@ -41,7 +41,7 @@
     "uk": "Міна з датчиком наближення, яка вистрибує і випускає газову хмару, що швидко виснажує витривалість.",
     "sr": "Mina aktivirana blizinom koja iskoči i oslobađa oblak gasa koji brzo iscrpljuje izdržljivost.",
     "hr": "Mina aktivirana blizinom koja iskoči i oslobađa oblak plina koji brzo iscrpljuje izdržljivost.",
-    "pt-BR": "Uma mina acionada por proximidade que salta e libera uma nuvem de gás que drena estamina rapidamente.",
+    "pt-BR": "Uma mina ativada por proximidade que surge e libera uma nuvem de gás que drena rapidamente o vigor.",
     "he": "מוקש המופעל בקרבה, הקופץ מעלה ומפזר ענן גז המדלדל את הסיבולת במהירות."
   },
   "type": "Blueprint",

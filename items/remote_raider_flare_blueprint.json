@@ -19,7 +19,7 @@
     "tr": "Uzaktan Akıncı İşaret Fişeği Planı",
     "hr": "Nacrt Daljinske Raider Rakete",
     "sr": "Nacrt Daljinske Raider Rakete",
-    "pt-BR": "Projeto de Sinalizador Remoto de Raider",
+    "pt-BR": "Projeto do Sinalizador de Combatente Remoto",
     "he": "שרטוט לנור ריידר נשלט-מרחוק"
   },
   "description": {
@@ -41,7 +41,7 @@
     "tr": "Manuel olarak tetiklendiğinde Akıncı Tehlike İşaret Fişeği fırlatılan konuşlandırılabilir bir cihaz.",
     "hr": "Uređaj za postavljanje koji, kada se ručno aktivira, ispaljuje Raider raketu za pomoć.",
     "sr": "Uređaj za postavljanje koji, kada se ručno aktivira, ispaljuje Raider raketu za pomoć.",
-    "pt-BR": "Um dispositivo implantável que, quando acionado manualmente, lança um Sinalizador de Socorro de Raider.",
+    "pt-BR": "Dispositivo portátil que lança um sinalizador de socorro de Combatente ao ser acionado manualmente.",
     "he": "התקן הניתן לפריסה, אשר בהפעלה ידנית משגר נור מצוקה של ריידר."
   },
   "type": "Blueprint",

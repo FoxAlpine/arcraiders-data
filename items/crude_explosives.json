@@ -19,7 +19,7 @@
     "tr": "Ham Patlayıcılar",
     "hr": "Sirovi eksploziv",
     "sr": "Sirovi eksploziv",
-    "pt-BR": "Explosivos Rudimentares",
+    "pt-BR": "Explosivos Brutos",
     "he": "חומרי נפץ גולמיים"
   },
   "description": {
@@ -41,7 +41,7 @@
     "tr": "Patlayıcı üretmek için kullanılır. Üretim malzemelerine geri dönüştürülebilir. Üretilebilir: Fırlatıcı Mühimmatı, Patlayıcı Bileşik, Ani Patlama Bombası, Şarapnel Bombası, Tetikli Bomba",
     "hr": "Koristi se za izradu eksploziva. Može se reciklirati u materijale za izradu. Koristi se za izradu: Municija za bacač, Eksplozivna smjesa, Snap Blast granata, Šrapnel granata, Trigger 'Nade",
     "sr": "Koristi se za izradu eksploziva. Može se reciklirati u materijale za izradu. Koristi se za izradu: Municija za bacač, Eksplozivna smeša, Snap Blast granata, Šrapnel granata, Trigger 'Nade",
-    "pt-BR": "Usado para fabricar explosivos. Pode ser reciclado em materiais de fabricação. Usado para fabricar: Munição de Lançador, Composto Explosivo, Granada de Impacto, Granada de Estilhaços, Granada de Acionamento",
+    "pt-BR": "Serve para fabricar explosivos. Reciclar gera materiais de fabricação. Usado para fabricar: Munição de Lançador, Composto Explosivo, Granada de Explosão Rápida, Granada de Estilhaços, Granada de Gatilho",
     "he": "משמש ליצירת חומרי נפץ. ניתן למיחזור לחומרי יצירה. משמש ליצירת: תחמושת משגר, תרכובת נפץ, רימון פיצוץ מהיר, רימון רסס, רימון הפעלה"
   },
   "rarity": "Uncommon",

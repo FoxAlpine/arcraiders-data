@@ -19,7 +19,7 @@
     "tr": "Osprey I",
     "hr": "Osprey I",
     "sr": "Osprey I",
-    "pt-BR": "Osprey I",
+    "pt-BR": "Águia-Pescadora I",
     "he": "אוספריי I"
   },
   "description": {
@@ -116,7 +116,7 @@
       "hr": "Veličina Spremnika",
       "sr": "Veličina Spremnika",
       "value": 8,
-      "pt-BR": "Tamanho do Carregador",
+      "pt-BR": "Tamanho do Pente",
       "he": "גודל מחסנית"
     },
     "Firing Mode": {
@@ -162,7 +162,7 @@
       "hr": "Probijanje ARC Oklopa",
       "sr": "Probijanje ARC Oklopa",
       "value": "Moderate",
-      "pt-BR": "Penetração de Armadura ARC",
+      "pt-BR": "Penetração contra blindagem ARC",
       "he": "חדירת שריון ARC"
     },
     "Special Trait": {

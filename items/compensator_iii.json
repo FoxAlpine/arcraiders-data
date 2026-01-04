@@ -41,7 +41,7 @@
     "tr": "Atış başına dağılmayı orta düzeyde azaltır. Uyumlu: Arpeggio, Ferro, Renegade, Anvil, Stitcher",
     "hr": "Umjereno smanjuje raspršenje po pucnju. Kompatibilno s: Arpeggio, Ferro, Renegade, Anvil, Stitcher",
     "sr": "Umereno smanjuje raspršenje po pucnju. Kompatibilno sa: Arpeggio, Ferro, Renegade, Anvil, Stitcher",
-    "pt-BR": "Reduz moderadamente a dispersão por disparo. Compatível com: Arpeggio, Ferro, Renegade, Anvil, Stitcher",
+    "pt-BR": "Reduz moderadamente a dispersão por disparo. Compatível com: Arpeggio, Ferro, Renegado, Bigorna, Costurador",
     "he": "מפחית באופן בינוני את פיזור הירי. תואם ל: Arpeggio, Ferro, Renegade, Anvil, Stitcher"
   },
   "type": "Modification",
@@ -115,7 +115,7 @@
       "hr": "Povećana stopa trošenja izdržljivosti",
       "sr": "Povećana stopa trošenja izdržljivosti",
       "value": "20%",
-      "pt-BR": "Taxa de Desgaste de Durabilidade Aumentada",
+      "pt-BR": "Taxa de Queima de Durabilidade Aumentada",
       "he": "קצב שחיקת עמידות מוגבר"
     }
   },

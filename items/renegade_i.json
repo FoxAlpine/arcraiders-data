@@ -19,7 +19,7 @@
     "tr": "Renegade I",
     "hr": "Renegade I",
     "sr": "Renegade I",
-    "pt-BR": "Renegade I",
+    "pt-BR": "Renegado I",
     "he": "רנגייד I"
   },
   "description": {
@@ -113,7 +113,7 @@
       "hr": "Veličina Spremnika",
       "sr": "Veličina Spremnika",
       "value": 8,
-      "pt-BR": "Tamanho do Carregador",
+      "pt-BR": "Tamanho do Pente",
       "he": "גודל מחסנית"
     },
     "Firing Mode": {
@@ -159,7 +159,7 @@
       "hr": "ARC Probijanje Oklopa",
       "sr": "ARC Probijanje Oklopa",
       "value": "Moderate",
-      "pt-BR": "Penetração de Blindagem ARC",
+      "pt-BR": "Penetração contra blindagem ARC",
       "he": "חדירת שריון ARC"
     }
   },

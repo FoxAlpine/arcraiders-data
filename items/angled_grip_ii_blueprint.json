@@ -19,7 +19,7 @@
     "tr": "Acili Kabza II Plani",
     "hr": "Kutni rukohvat II Nacrt",
     "sr": "Kutni rukohvat II Nacrt",
-    "pt-BR": "Projeto de Empunhadura Angular II",
+    "pt-BR": "Projeto de Empunhadura Angulada II",
     "he": "שרטוט מאחז זוויתי II"
   },
   "description": {
@@ -41,7 +41,7 @@
     "tr": "Yatay geri tepmesini orta duzeyde azaltir. Uyumlu: Arpeggio, Ferro, Il Toro, Stitcher",
     "hr": "Umjereno smanjuje horizontalni trzaj. Kompatibilno s: Arpeggio, Ferro, Il Toro, Stitcher",
     "sr": "Umjereno smanjuje horizontalni trzaj. Kompatibilno sa: Arpeggio, Ferro, Il Toro, Stitcher",
-    "pt-BR": "Reduz moderadamente o recuo horizontal. Compatível com: Arpeggio, Ferro, Il Toro, Stitcher",
+    "pt-BR": "Reduz moderadamente o recuo horizontal. Compativel com: Arpeggio, Ferro, Il Toro, Costurador",
     "he": "מפחית באופן בינוני את הרתע האופקי. תואם ל: Arpeggio, Ferro, Il Toro, Stitcher"
   },
   "type": "Blueprint",

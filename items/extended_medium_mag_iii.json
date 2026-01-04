@@ -19,7 +19,7 @@
     "tr": "Uzatılmış Orta Şarjör III",
     "hr": "Produženi Srednji Spremnik III",
     "sr": "Produženi Srednji Spremnik III",
-    "pt-BR": "Carregador Médio Estendido III",
+    "pt-BR": "Carregador Estendido Médio III",
     "he": "מחסנית בינונית מוגדלת III"
   },
   "description": {
@@ -41,7 +41,7 @@
     "tr": "Orta mermi kullanan uyumlu silahların mermi kapasitesini önemli ölçüde artırır. Uyumlu: Arpeggio, Renegade, Venator, Tempest, Torrente",
     "hr": "Značajno povećava kapacitet municije kompatibilnog oružja koje koristi srednju municiju. Kompatibilno s: Arpeggio, Renegade, Venator, Tempest, Torrente",
     "sr": "Značajno povećava kapacitet municije kompatibilnog oružja koje koristi srednju municiju. Kompatibilno sa: Arpeggio, Renegade, Venator, Tempest, Torrente",
-    "pt-BR": "Aumenta significativamente a capacidade de munição de armas compatíveis que usam munição média. Compatível com: Arpeggio, Renegade, Venator, Tempest, Torrente",
+    "pt-BR": "Estende significativamente a capacidade de munição de armas compatíveis que usam munição média. Compatível com: Arpeggio, Renegado, Venator, Temporal, Torrente",
     "he": "מגדיל משמעותית את קיבולת התחמושת של נשקים תואמים המשתמשים בתחמושת בינונית. תואם ל: ארפג'יו, רנגייד, ונטור, טמפסט, טורנטה"
   },
   "type": "Modification",
@@ -69,7 +69,7 @@
       "hr": "Veličina Spremnika",
       "sr": "Veličina Spremnika",
       "value": "+12",
-      "pt-BR": "Tamanho do Carregador",
+      "pt-BR": "Tamanho do Pente",
       "he": "גודל מחסנית"
     }
   },

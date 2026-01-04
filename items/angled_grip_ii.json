@@ -19,7 +19,7 @@
     "tr": "Açılı Kabza II",
     "hr": "Kutni rukohvat II",
     "sr": "Kutni rukohvat II",
-    "pt-BR": "Empunhadura Angular II",
+    "pt-BR": "Empunhadura Angulada II",
     "he": "מאחז זוויתי II"
   },
   "description": {
@@ -41,7 +41,7 @@
     "tr": "Yatay geri tepmesini orta düzeyde azaltır. Uyumlu: Arpeggio, Ferro, Il Toro, Stitcher",
     "hr": "Umjereno smanjuje horizontalni trzaj. Kompatibilno s: Arpeggio, Ferro, Il Toro, Stitcher",
     "sr": "Umjereno smanjuje horizontalni trzaj. Kompatibilno sa: Arpeggio, Ferro, Il Toro, Stitcher",
-    "pt-BR": "Reduz moderadamente o recuo horizontal. Compatível com: Arpeggio, Ferro, Il Toro, Stitcher",
+    "pt-BR": "Reduz moderadamente o recuo horizontal. Compatível com: Arpeggio, Ferro, Il Toro, Costurador",
     "he": "מפחית באופן בינוני את הרתע האופקי. תואם ל: Arpeggio, Ferro, Il Toro, Stitcher"
   },
   "type": "Modification",

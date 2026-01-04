@@ -115,7 +115,7 @@
       "sr": "Veličina okvira",
       "hr": "Veličina spremnika",
       "value": 20,
-      "pt-BR": "Tamanho do Carregador",
+      "pt-BR": "Tamanho do Pente",
       "he": "גודל מחסנית"
     },
     "Firing Mode": {
@@ -161,7 +161,7 @@
       "sr": "ARC probijanje oklopa",
       "hr": "ARC probijanje oklopa",
       "value": "Strong",
-      "pt-BR": "Penetração de Armadura ARC",
+      "pt-BR": "Penetração contra blindagem ARC",
       "he": "חדירת שריון ARC"
     }
   },

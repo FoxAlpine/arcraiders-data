@@ -19,7 +19,7 @@
     "tr": "ARC Güç Hücresi",
     "hr": "ARC Energetska Ćelija",
     "sr": "ARC Energetska Ćelija",
-    "pt-BR": "Célula de Energia ARC",
+    "pt-BR": "Bateria ARC",
     "he": "תא כוח ARC"
   },
   "description": {
@@ -41,7 +41,7 @@
     "tr": "Tüm ARC düşmanlarından düşen değerli kaynak. Şunları üretmek için kullanılır: Kalkan Şarj Cihazı. Kalkanları onarmak için kullanılabilir.",
     "hr": "Vrijedan resurs koji ispuštaju svi ARC neprijatelji. Koristi se za izradu: Punjač Štita Može se koristiti za popravak štitova.",
     "sr": "Vredan resurs koji ispuštaju svi ARC neprijatelji. Koristi se za izradu: Punjač Štita Može se koristiti za popravku štitova.",
-    "pt-BR": "Recurso valioso obtido de todos os inimigos ARC. Usado para fabricar: Recarregador de Escudo Pode ser usado para reparar escudos.",
+    "pt-BR": "Recurso valioso que cai de todos os inimigos ARC. Usada para fabricar: Recarregador de escudo. Pode usar para consertar escudos.",
     "he": "משאב יקר המתקבל מכל אויבי ARC. משמש ליצירת: מטען מגן. ניתן לשימוש לתיקון מגנים."
   },
   "type": "Topside Material",

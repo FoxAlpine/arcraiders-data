@@ -19,7 +19,7 @@
     "tr": "Eşekarısı Sürücüsü",
     "hr": "Stršljenov Pogon",
     "sr": "Stršljenov Pogon",
-    "pt-BR": "Hornet Driver",
+    "pt-BR": "Propulsor de Vespa",
     "he": "הורנט דרייבר"
   },
   "tip": "The Hornet Driver is a rare item is dropped by Hornets that can be recycled into crafting materials.",
@@ -77,7 +77,7 @@
       "hr": "Trajanje ARC Omamljivanja",
       "sr": "Trajanje ARC Omamljivanja",
       "value": "10s",
-      "pt-BR": "Duração de Atordoamento em ARC",
+      "pt-BR": "Duração de Atordoamento ARC",
       "he": "משך הלם ARC"
     },
     "Raider Stun Duration": {
@@ -100,7 +100,7 @@
       "hr": "Trajanje Omamljivanja Pljačkaša",
       "sr": "Trajanje Omamljivanja Pljačkaša",
       "value": "0.5s",
-      "pt-BR": "Duração de Atordoamento em Raider",
+      "pt-BR": "Duração de Atordoamento de Combatente",
       "he": "משך הלם ריידר"
     },
     "Radius": {

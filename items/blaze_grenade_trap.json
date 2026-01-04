@@ -19,7 +19,7 @@
     "tr": "Alev Bombası Tuzağı",
     "hr": "Zamka s Vatrenom Granatom",
     "sr": "Zamka sa Vatrenom Granatom",
-    "pt-BR": "Armadilha de Granada Incendiária",
+    "pt-BR": "Armadilha a Laser: Fogo",
     "he": "מלכודת רימון תבערה"
   },
   "description": {
@@ -41,7 +41,7 @@
     "tr": "Bir Alev Bombasını patlatan lazer tuzak teli.",
     "hr": "Laserska žica zamka koja detonira Vatrenu Granatu.",
     "sr": "Laserska žica zamka koja detonira Vatrenu Granatu.",
-    "pt-BR": "Um fio a laser que detona uma Granada Incendiária.",
+    "pt-BR": "Armadilha a laser que detona uma Granada Incendiária.",
     "he": "תיל לייזר ממעיד המפוצץ רימון תבערה."
   },
   "type": "Quick Use",

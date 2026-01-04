@@ -19,7 +19,7 @@
     "tr": "Patlayıcı Bileşik",
     "hr": "Eksplozivna smjesa",
     "sr": "Eksplozivna smesa",
-    "pt-BR": "Composto Explosivo",
+    "pt-BR": "Composto explosivo",
     "he": "תרכובת נפץ"
   },
   "description": {
@@ -41,7 +41,7 @@
     "tr": "Patlayıcı üretmek için kullanılır. Üretilebilir: Wolfpack, Patlayıcı Mayın, Alev Bombası, Ağır Fünye Bombası",
     "hr": "Koristi se za izradu eksploziva. Koristi se za izradu: Wolfpack, Eksplozivna mina, Blaze granata, Teška Fuze granata",
     "sr": "Koristi se za izradu eksploziva. Koristi se za izradu: Wolfpack, Eksplozivna mina, Blaze granata, Teška Fuze granata",
-    "pt-BR": "Usado para fabricar explosivos. Usado para fabricar: Wolfpack, Mina Explosiva, Granada Incendiária, Granada de Espoleta Pesada",
+    "pt-BR": "Usado para fabricar explosivos. Usado para fabricar: Matilha de Lobo, Mina Explosiva, Granada Incendiária, Granada de Espoleta Pesada",
     "he": "משמש ליצירת חומרי נפץ. משמש ליצירת: Wolfpack, Explosive Mine, Blaze Grenade, Heavy Fuze Grenade"
   },
   "type": "Refined Material",

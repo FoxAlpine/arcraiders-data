@@ -41,7 +41,7 @@
     "tr": "Bir şey sana bunu açmak istemediğini söylüyor... Küçük miktarda dayanıklılık yenilemek için (isteksizce) tüketilebilir.",
     "hr": "Nešto ti govori da ne želiš otvoriti ovo... Može se (nevoljko) konzumirati za obnovu male količine izdržljivosti.",
     "sr": "Nešto ti govori da ne želiš da otvoriš ovo... Može se (nevoljno) konzumirati za obnovu male količine izdržljivosti.",
-    "pt-BR": "Algo lhe diz que você não quer abrir isso... Pode ser consumido (a contragosto) para restaurar uma pequena quantidade de estamina.",
+    "pt-BR": "Algo lhe diz que você não quer abrir isso... Pode (relutantemente) ser consumido para restaurar pequenas quantidades de vigor.",
     "he": "משהו אומר לך שאתה לא רוצה לפתוח את זה... ניתן (בחוסר רצון) לצריכה כדי להשיב כמות קטנה של סיבולת."
   },
   "type": "Trinket",
@@ -67,7 +67,7 @@
       "hr": "Izdržljivost",
       "sr": "Izdržljivost",
       "value": 25,
-      "pt-BR": "Estamina",
+      "pt-BR": "Vigor",
       "he": "סיבולת"
     },
     "Use Time": {

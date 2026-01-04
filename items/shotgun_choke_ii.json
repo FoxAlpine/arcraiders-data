@@ -19,7 +19,7 @@
     "tr": "Pompalı Tüfek Çoku II",
     "hr": "Sačmarica čok II",
     "sr": "Sačmarica čok II",
-    "pt-BR": "Estrangulador de Escopeta II",
+    "pt-BR": "Choque de Escopeta II",
     "he": "צ'וק לרובה ציד II"
   },
   "description": {
@@ -41,7 +41,7 @@
     "tr": "Temel dağılımı orta düzeyde azaltır. Uyumlu: Il Toro, Vulcano",
     "hr": "Umjereno smanjuje osnovnu raspršenost. Kompatibilno s: Il Toro, Vulcano",
     "sr": "Umereno smanjuje osnovnu raspršenost. Kompatibilno sa: Il Toro, Vulcano",
-    "pt-BR": "Reduz moderadamente a dispersão base. Compatível com: Il Toro, Vulcano",
+    "pt-BR": "Reduz moderadamente a dispersão base. Compatível com: Il Toro, Vulcão",
     "he": "מפחית באופן בינוני את הפיזור הבסיסי. תואם ל: Il Toro, Vulcano"
   },
   "type": "Modification",

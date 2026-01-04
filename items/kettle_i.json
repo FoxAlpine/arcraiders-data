@@ -19,7 +19,7 @@
     "tr": "Kettle I",
     "hr": "Kettle I",
     "sr": "Kettle I",
-    "pt-BR": "Kettle I",
+    "pt-BR": "Chaleira I",
     "he": "קאטל I"
   },
   "description": {
@@ -129,7 +129,7 @@
       "hr": "Veličina spremnika",
       "sr": "Veličina okvira",
       "value": 20,
-      "pt-BR": "Tamanho do Carregador",
+      "pt-BR": "Tamanho do Pente",
       "he": "גודל מחסנית"
     },
     "Firing Mode": {
@@ -175,7 +175,7 @@
       "hr": "ARC probijanje oklopa",
       "sr": "ARC probijanje oklopa",
       "value": "Very Weak",
-      "pt-BR": "Penetração de Blindagem ARC",
+      "pt-BR": "Penetração contra blindagem ARC",
       "he": "חדירת שריון ARC"
     }
   },

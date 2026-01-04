@@ -19,7 +19,7 @@
     "tr": "Tetiklemeli Bomba Planı",
     "hr": "Nacrt Trigger Nade",
     "sr": "Nacrt Trigger Nade",
-    "pt-BR": "Projeto da Granada de Detonação",
+    "pt-BR": "Projeto de Granada de Gatilho",
     "he": "שרטוט רימון טריגר"
   },
   "description": {
@@ -41,7 +41,7 @@
     "tr": "Yüzeylere ve ARC'ye yapışabilen, tetiklendiğinde patlayıcı hasar veren uzaktan patlatmalı el bombası.",
     "hr": "Daljinski aktivirana granata koja se može zalijepiti na površine i ARC, nanoseći eksplozivnu štetu kada se aktivira.",
     "sr": "Daljinski aktivirana granata koja se može zalepiti na površine i ARC, nanoseći eksplozivnu štetu kada se aktivira.",
-    "pt-BR": "Uma granada de detonação remota que pode aderir a superfícies e aos ARC, causando dano explosivo quando acionada.",
+    "pt-BR": "Uma granada de detonação remota que pode grudar em superfícies e ARC, causando dano explosivo quando acionada.",
     "he": "רימון המופעל מרחוק שיכול להיצמד למשטחים ול-ARC, וגורם נזק פיצוץ בעת ההפעלה."
   },
   "type": "Blueprint",

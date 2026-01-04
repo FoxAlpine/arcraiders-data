@@ -42,7 +42,7 @@
       "tr": "Pas Kuşağı'nın ötesine tehlikeli bir keşfe çıkın. Keşifler tehlikelidir. Akıncınız tüm eşyalarını Pas Kuşağı'nın ötesindeki bilinmeyene taşıyacak. Karşılığında, bir sonraki Akıncınız bir sonraki Keşif ayrılana kadar sürecek benzersiz bir avantaj kazanır.",
       "hr": "Krenite na opasnu ekspediciju izvan Pojasa Hrđe. Ekspedicije su opasne. Vaš Pljačkaš će ponijeti svu svoju imovinu u nepoznato izvan Pojasa Hrđe. Zauzvrat, vaš sljedeći Pljačkaš dobiva jedinstvenu prednost koja traje do polaska sljedeće Ekspedicije.",
       "sr": "Krenite na opasnu ekspediciju izvan Pojasa Rđe. Ekspedicije su opasne. Vaš Pljačkaš će poneti svu svoju imovinu u nepoznato izvan Pojasa Rđe. Zauzvrat, vaš sledeći Pljačkaš dobija jedinstvenu prednost koja traje do polaska sledeće Ekspedicije.",
-      "pt-BR": "Embarque em uma expedição perigosa além do Cinturão da Ferrugem. As expedições são perigosas. Seu Raider levará todos os seus pertences para o desconhecido além do Cinturão da Ferrugem. Em troca, seu próximo Raider ganha uma vantagem única que dura até a partida da próxima Expedição.",
+      "pt-BR": "Embarque em uma expedição perigosa além do Cinturão da Ferrugem. Expedições são perigosas. Seu Raider carregará todos os seus pertences para o desconhecido além do Cinturão da Ferrugem. Em troca, seu próximo Raider ganha uma vantagem única que dura até a partida da próxima expedição.",
       "he": "צאו למשלחת מסוכנת אל מעבר לחגורת החלודה. המשלחות טומנות בחובן סכנות רבות. הריידר שלכם ייקח את כל רכושו אל הלא-נודע שמחוץ לחגורת החלודה. בתמורה, הריידר הבא שלכם יזכה ביתרון ייחודי שיישמר עד ליציאת המשלחת הבאה."
     },
     "phases": [
@@ -132,7 +132,7 @@
           "tr": "Kablolama, havalandırma ve temel güç sistemlerinin bağlanması",
           "hr": "Povezivanje ožičenja, ventilacije i osnovnih energetskih sustava",
           "sr": "Povezivanje ožičenja, ventilacije i osnovnih energetskih sistema",
-          "pt-BR": "Conectando fiação, ventilação e sistemas de energia essenciais",
+          "pt-BR": "Conexão de cabos, ventilação e sistemas de energia essenciais",
           "he": "חיבור חיווט, אוורור ומערכות חשמל חיוניות"
         },
         "requirementItemIds": [
@@ -197,7 +197,7 @@
           "tr": "Duvarların ve çatının inşası, temel sistemlerin kurulumu ve iç düzenin belirlenmesi",
           "hr": "Gradnja zidova i krova, instalacija osnovnih sustava i definiranje unutarnjeg rasporeda",
           "sr": "Gradnja zidova i krova, instalacija osnovnih sistema i definisanje unutrašnjeg rasporeda",
-          "pt-BR": "Construindo as paredes e o telhado, instalando sistemas centrais e definindo o layout interior",
+          "pt-BR": "Construção de paredes e teto, instalação dos sistemas centrais e definição do interior",
           "he": "בניית הקירות והגג, התקנת מערכות ליבה והגדרת הפריסה הפנימית"
         },
         "requirementItemIds": [
@@ -240,7 +240,7 @@
           "tr": "Donatım",
           "hr": "Opremanje",
           "sr": "Opremanje",
-          "pt-BR": "Aparelhamento",
+          "pt-BR": "Aparelhagem",
           "he": "אבזור"
         },
         "description": {
@@ -262,7 +262,7 @@
           "tr": "Depolama, tezgahlar, tesisatlar ve kişisel dokunuşların eklenmesi",
           "hr": "Dodavanje skladišta, radnih stolova, komunalija i osobnih detalja",
           "sr": "Dodavanje skladišta, radnih stolova, komunalija i ličnih detalja",
-          "pt-BR": "Adicionando armazenamento, bancadas, utilitários e toques pessoais",
+          "pt-BR": "Adição de depósitos, bancadas de trabalho, utilitários e toques pessoais",
           "he": "הוספת מקומות אחסון, שולחנות עבודה, תשתיות ונגיעות אישיות"
         },
         "requirementItemIds": [
@@ -305,7 +305,7 @@
           "tr": "Yükleme Aşaması",
           "hr": "Faza Utovara",
           "sr": "Faza Utovara",
-          "pt-BR": "Fase de Carregamento",
+          "pt-BR": "Carregar Etapa",
           "he": "שלב ההעמסה"
         },
         "description": {
@@ -327,7 +327,7 @@
           "tr": "Kervanın hayati malzemelerle yüklenmesi. Keşif için tam olarak hazırlanmak üzere savaş ekipmanı, hayatta kalma ekipmanı, erzak ve onarım malzemeleri gereklidir. Her kategoriye öğelerin madeni para değerini göndermeniz gerekir.",
           "hr": "Utovar karavane s vitalnim zalihama. Borbena oprema, oprema za preživljavanje, namirnice i materijali za popravak potrebni su za potpunu pripremu za Ekspediciju. Morate dostaviti vrijednost predmeta u novcu za svaku kategoriju.",
           "sr": "Utovar karavana sa vitalnim zalihama. Borbena oprema, oprema za preživljavanje, namirnice i materijali za popravku potrebni su za potpunu pripremu za Ekspediciju. Morate dostaviti vrednost predmeta u novcu za svaku kategoriju.",
-          "pt-BR": "Carregando a caravana com suprimentos vitais. Equipamentos de combate, equipamentos de sobrevivência, provisões e materiais de reparo são necessários para se preparar totalmente para a Expedição. Você precisa enviar o valor em moedas dos itens para cada categoria.",
+          "pt-BR": "Carregar a caravana com suprimentos vitais. Equipamento de combate, equipamento de sobrevivência, provisões e materiais de reparo são necessários para se preparar totalmente para a Expedição. Você precisa enviar o valor em moedas dos itens para cada categoria.",
           "he": "העמסת השיירה באספקה חיונית. ציוד לחימה, ציוד הישרדות, מצרכים וחומרי תיקון נדרשים כדי להתכונן למשלחת באופן מלא. עליכם להגיש את שווי הפריטים במטבעות עבור כל קטגוריה."
         },
         "requirementItemIds": [],
@@ -393,7 +393,7 @@
           "tr": "İlerlemeyi sıfırlamak için Keşif'e bağlan. Sıfırlamadan sonra her 1 milyon kredi, sana 1 ekstra beceri puanı kazandırır.",
           "hr": "Obveži se na Ekspediciju kako bi resetirao svoj napredak. Svakih 1 milijun kredita donosi ti 1 dodatni bod vještine nakon reseta.",
           "sr": "Obaveži se na Ekspediciju da resetuješ svoj napredak. Svakih 1 milion kredita donosi ti 1 dodatni poen veštine nakon reseta.",
-          "pt-BR": "Comprometa-se com a Expedição para reiniciar seu progresso. Cada 1 milhão de créditos garante 1 ponto de habilidade extra após a reinicialização.",
+          "pt-BR": "Comprometa-se com a Expedição para redefinir seu progresso. A cada 1 milhão de créditos, você ganha 1 ponto de habilidade extra após a redefinição.",
           "he": "התחייבו למשלחת כדי לאפס את ההתקדמות שלכם. כל מיליון קרדיטים מזכים אתכם בנקודת מיומנות אחת נוספת לאחר האיפוס."
         },
         "requirementItemIds": [],
@@ -449,7 +449,7 @@
       "tr": "Pas Kuşağı'nın ötesine tehlikeli bir keşfe çıkın. Keşifler tehlikelidir. Akıncınız tüm eşyalarını Pas Kuşağı'nın ötesindeki bilinmeyene taşıyacak. Karşılığında, bir sonraki Akıncınız bir sonraki Keşif ayrılana kadar sürecek benzersiz bir avantaj kazanır.",
       "hr": "Krenite na opasnu ekspediciju izvan Pojasa Hrđe. Ekspedicije su opasne. Vaš Pljačkaš će ponijeti svu svoju imovinu u nepoznato izvan Pojasa Hrđe. Zauzvrat, vaš sljedeći Pljačkaš dobiva jedinstvenu prednost koja traje do polaska sljedeće Ekspedicije.",
       "sr": "Krenite na opasnu ekspediciju izvan Pojasa Rđe. Ekspedicije su opasne. Vaš Pljačkaš će poneti svu svoju imovinu u nepoznato izvan Pojasa Rđe. Zauzvrat, vaš sledeći Pljačkaš dobija jedinstvenu prednost koja traje do polaska sledeće Ekspedicije.",
-      "pt-BR": "Embarque em uma expedição perigosa além do Cinturão da Ferrugem. As expedições são perigosas. Seu Raider levará todos os seus pertences para o desconhecido além do Cinturão da Ferrugem. Em troca, seu próximo Raider ganha uma vantagem única que dura até a partida da próxima Expedição.",
+      "pt-BR": "Embarque em uma expedição perigosa além do Cinturão da Ferrugem. Expedições são perigosas. Seu Raider carregará todos os seus pertences para o desconhecido além do Cinturão da Ferrugem. Em troca, seu próximo Raider ganha uma vantagem única que dura até a partida da próxima expedição.",
       "he": "צאו למשלחת מסוכנת אל מעבר לחגורת החלודה. המשלחות טומנות בחובן סכנות רבות. הריידר שלכם ייקח את כל רכושו אל הלא-נודע שמחוץ לחגורת החלודה. בתמורה, הריידר הבא שלכם יזכה ביתרון ייחודי שיישמר עד ליציאת המשלחת הבאה."
     },
     "phases": [
@@ -539,7 +539,7 @@
           "tr": "Kablolama, havalandırma ve temel güç sistemlerinin bağlanması",
           "hr": "Povezivanje ožičenja, ventilacije i osnovnih energetskih sustava",
           "sr": "Povezivanje ožičenja, ventilacije i osnovnih energetskih sistema",
-          "pt-BR": "Conectando fiação, ventilação e sistemas de energia essenciais",
+          "pt-BR": "Conexão de cabos, ventilação e sistemas de energia essenciais",
           "he": "חיבור חיווט, אוורור ומערכות חשמל חיוניות"
         },
         "requirementItemIds": [
@@ -604,7 +604,7 @@
           "tr": "Duvarların ve çatının inşası, temel sistemlerin kurulumu ve iç düzenin belirlenmesi",
           "hr": "Gradnja zidova i krova, instalacija osnovnih sustava i definiranje unutarnjeg rasporeda",
           "sr": "Gradnja zidova i krova, instalacija osnovnih sistema i definisanje unutrašnjeg rasporeda",
-          "pt-BR": "Construindo as paredes e o telhado, instalando sistemas centrais e definindo o layout interior",
+          "pt-BR": "Construção de paredes e teto, instalação dos sistemas centrais e definição do interior",
           "he": "בניית הקירות והגג, התקנת מערכות ליבה והגדרת הפריסה הפנימית"
         },
         "requirementItemIds": [
@@ -647,7 +647,7 @@
           "tr": "Donatım",
           "hr": "Opremanje",
           "sr": "Opremanje",
-          "pt-BR": "Instalações",
+          "pt-BR": "Aparelhagem",
           "he": "הצטיידות"
         },
         "description": {
@@ -669,7 +669,7 @@
           "tr": "Depolama, tezgahlar, tesisatlar ve kişisel dokunuşların eklenmesi",
           "hr": "Dodavanje skladišta, radnih stolova, komunalija i osobnih detalja",
           "sr": "Dodavanje skladišta, radnih stolova, komunalija i ličnih detalja",
-          "pt-BR": "Adicionando armazenamento, bancadas, utilitários e toques pessoais",
+          "pt-BR": "Adição de depósitos, bancadas de trabalho, utilitários e toques pessoais",
           "he": "הוספת אחסון, שולחנות עבודה, עזרים ונגיעות אישיות"
         },
         "requirementItemIds": [
@@ -712,7 +712,7 @@
           "tr": "Yükleme Aşaması",
           "hr": "Faza Utovara",
           "sr": "Faza Utovara",
-          "pt-BR": "Etapa de Carregamento",
+          "pt-BR": "Carregar Etapa",
           "he": "שלב ההעמסה"
         },
         "description": {
@@ -734,7 +734,7 @@
           "tr": "Kervanın hayati malzemelerle yüklenmesi. Keşif için tam olarak hazırlanmak üzere savaş ekipmanı, hayatta kalma ekipmanı, erzak ve onarım malzemeleri gereklidir. Her kategoriye öğelerin madeni para değerini göndermeniz gerekir.",
           "hr": "Utovar karavane s vitalnim zalihama. Borbena oprema, oprema za preživljavanje, namirnice i materijali za popravak potrebni su za potpunu pripremu za Ekspediciju. Morate dostaviti vrijednost predmeta u novcu za svaku kategoriju.",
           "sr": "Utovar karavana sa vitalnim zalihama. Borbena oprema, oprema za preživljavanje, namirnice i materijali za popravku potrebni su za potpunu pripremu za Ekspediciju. Morate dostaviti vrednost predmeta u novcu za svaku kategoriju.",
-          "pt-BR": "Carregando a caravana com suprimentos vitais. Equipamento de combate, equipamento de sobrevivência, provisões e materiais de reparo são necessários para o preparo total para a Expedição. Você precisa enviar o valor em moedas dos itens para cada categoria.",
+          "pt-BR": "Carregar a caravana com suprimentos vitais. Equipamento de combate, equipamento de sobrevivência, provisões e materiais de reparo são necessários para se preparar totalmente para a Expedição. Você precisa enviar o valor em moedas dos itens para cada categoria.",
           "he": "העמסת השיירה באספקה חיונית. ציוד קרב, ציוד הישרדות, צידה וחומרי תיקון נדרשים להכנה מלאה למשלחת. עליך להזין את השווי הכספי של הפריטים בכל קטגוריה."
         },
         "requirementItemIds": [],
@@ -800,7 +800,7 @@
           "tr": "İlerlemeyi sıfırlamak için Keşif'e bağlan. Sıfırlamadan sonra her 1 milyon kredi, sana 1 ekstra beceri puanı kazandırır.",
           "hr": "Obveži se na Ekspediciju kako bi resetirao svoj napredak. Svakih 1 milijun kredita donosi ti 1 dodatni bod vještine nakon reseta.",
           "sr": "Obaveži se na Ekspediciju da resetuješ svoj napredak. Svakih 1 milion kredita donosi ti 1 dodatni poen veštine nakon reseta.",
-          "pt-BR": "Confirme a Expedição para redefinir seu progresso. Cada 1 milhão de créditos garante 1 ponto de habilidade extra após a redefinição.",
+          "pt-BR": "Comprometa-se com a Expedição para redefinir seu progresso. A cada 1 milhão de créditos, você ganha 1 ponto de habilidade extra após a redefinição.",
           "he": "התחייבות למשלחת תאפס את ההתקדמות שלך. כל מיליון קרדיטים יעניקו לך נקודת מיומנות אחת נוספת לאחר האיפוס."
         },
         "requirementItemIds": [],
@@ -834,7 +834,7 @@
       "tr": "Titreyen Alevler",
       "hr": "Treperavi plamenovi",
       "sr": "Treperavi plamenovi",
-      "pt-BR": "Chamas Cintilantes",
+      "pt-BR": "Chamas Trêmulas",
       "he": "להבות מרצדות"
     },
     "description": {
@@ -856,7 +856,7 @@
       "tr": "Dayanıklı mum çileği çalısı etrafında şekillenen dirençli sıcaklık festivali. Speranzalılar yerel kutlamalar düzenlemeleriyle tanınır ve rekabetçi oldukları için her fırsatta birbirlerini geçmeye çalışırlar. Bazıları mütevazı mum çileği çalısını en seçici gurmelere bile layık bir ziyafete dönüştürmeyi başarmıştır.",
       "hr": "Festival otporne topline, usredotočen na izdržljivi grm svijećnjaka. Speranzanci su poznati po organiziranju lokalnih proslava, a budući da su natjecateljski nastrojeni, nastoje se nadmašiti jedni druge u svakoj prilici. Nekima je uspjelo pretvoriti skromni grm svijećnjaka u gozbu dostojnu čak i najzahtjevnijih gurmana.",
       "sr": "Festival otporne topline, usredsređen na izdržljivi grm svećnjaka. Speranzanci su poznati po organizovanju lokalnih proslava, a budući da su takmičarski nastrojeni, nastoje da se nadmaše jedni druge u svakoj prilici. Nekima je uspelo da pretvore skromni grm svećnjaka u gozbu dostojnu čak i najzahtevnijih gurmana.",
-      "pt-BR": "Um festival de calor resiliente, centrado no robusto arbusto de baga-de-cera. Os Speranzanos são conhecidos por sediar celebrações locais e, sendo competitivos, buscam superar uns aos outros a cada passo. Alguns conseguiram transformar o singelo arbusto de baga-de-cera em um banquete digno até dos gourmands mais exigentes.",
+      "pt-BR": "Um festival de aconchego resiliente, centrado no robusto arbusto de bagavela. Os speranzanos são conhecidos por organizar celebrações locais, e sendo competitivos, procuram sempre superar uns aos outros. Alguns conseguiram transformar o simples arbusto de bagavela em um banquete digno até dos gastrônomos mais exigentes.",
       "he": "פסטיבל של חמימות ועמידות, המתרכז סביב שיח הקנדלברי הקשוח. הספרנזים ידועים בעריכת חגיגות מקומיות, ובהיותם תחרותיים, הם מנסים להתעלות זה על זה בכל הזדמנות. חלקם הצליחו להפוך את שיח הקנדלברי הפשוט למשתה הראוי אפילו לאניני הטעם הגדולים ביותר."
     },
     "phases": [
@@ -881,7 +881,7 @@
           "tr": "Mum Işığı",
           "hr": "Svjetlost svijeće",
           "sr": "Svetlost sveće",
-          "pt-BR": "Luz de Velas",
+          "pt-BR": "Luz de Vela",
           "he": "אור נרות"
         },
         "description": {
@@ -968,7 +968,7 @@
           "tr": "Birçok Speranzalı, güzelliği ve yeşilliği eve taşıma sanatında şaşırtıcı derecede ustalaştı.",
           "hr": "Mnogi Speranzanci postali su iznenađujuće vješti u umjetnosti unošenja ljepote i zelenila u dom.",
           "sr": "Mnogi Speranzanci postali su iznenađujuće vešti u umetnosti unošenja lepote i zelenila u dom.",
-          "pt-BR": "Muitos Speranzanos se tornaram surpreendentemente hábeis na arte de trazer beleza e vegetação para o lar.",
+          "pt-BR": "Muitos speranzanos tornaram-se surpreendentemente hábeis na arte de levar beleza e verde para dentro de casa.",
           "he": "ספרנזים רבים פיתחו מיומנות מפתיעה באומנות הכנסת היופי והצמחייה אל תוך הבית."
         },
         "requirementItemIds": [
@@ -1033,7 +1033,7 @@
           "tr": "Becerikli Speranzalılar mum meyvelerini sayısız hediyeye dönüştürdü. Bunlara parfümler ve sabunlar ile alıcının kokusuyla ilgisi olmayan hediyeler de dahil.",
           "hr": "Spretni Speranzanci pretvorili su svijećne bobice u obilje darova. To uključuje parfeme i sapune, kao i darove nepovezane s mirisima primatelja.",
           "sr": "Spretni Speranzanci pretvorili su svećne bobice u obilje poklona. Tu su parfemi i sapuni, kao i pokloni koji nisu povezani sa mirisima primaoca.",
-          "pt-BR": "Speranzanos criativos transformaram as bagas-de-cera em uma riqueza de presentes. Estes incluem perfumes e sabonetes, bem como presentes não relacionados aos odores do destinatário.",
+          "pt-BR": "Speranzanos engenhosos transformaram as bagavelas em uma grande variedade de presentes. Entre eles estão perfumes e sabonetes, além de itens sem relação nenhuma com o cheiro do presenteado.",
           "he": "ספרנזים יצירתיים הפכו את הקנדלברי לשפע של מתנות. אלו כוללות בשמים וסבונים, כמו גם מתנות שאינן קשורות לריחות של המקבל."
         },
         "requirementItemIds": [
@@ -1098,7 +1098,7 @@
           "tr": "Mum meyveleri ferahlatıcı meyve sularına ezilebilir; yaprakları ve kökleri ise en inatçı soğuk algınlıklarını bile söküp atabilecek bir çay yapar.",
           "hr": "Svijećne bobice se mogu zgnječiti u osvježavajuće sokove, dok se od listova i korijenja može napraviti čaj koji može otjerati i najteže prehlade.",
           "sr": "Svećne bobice se mogu zgnječiti u osvežavajuće sokove, dok se od listova i korenja može napraviti čaj koji može oterati i najteže prehlade.",
-          "pt-BR": "Bagas-de-cera podem ser esmagadas em sucos refrescantes, enquanto as folhas e raízes fazem um chá capaz de curar até os resfriados mais fortes.",
+          "pt-BR": "As bagavelas podem ser esmagadas em sucos refrescantes, enquanto as folhas e raízes rendem um chá capaz de espantar até os resfriados mais difíceis.",
           "he": "ניתן לסחוט את פרי הקנדלברי למיצים מרעננים, בעוד שהעלים והשורשים משמשים לחליטת תה שיכול לגרש גם את הצינון הקשה ביותר."
         },
         "requirementItemIds": [
@@ -1163,7 +1163,7 @@
           "tr": "Mum meyvelerinin yaprakları acı olsa da, yahni ve çorbalarda ağır ağır pişirmek nostaljik Speranzalıların sevdiği o topraksı dokunuşu katar.",
           "hr": "Iako su listovi svijećnih bobica gorki, lagano krčkanje u varivima i juhama dodaje zemljani štih koji nostalgični Speranzanci obožavaju.",
           "sr": "Iako su listovi svećnih bobica gorki, lagano krčkanje u čorbama i gulašima dodaje zemljanu notu koju nostalgični Speranzanci vole.",
-          "pt-BR": "Embora as folhas de baga-de-cera sejam amargas, cozinhá-las lentamente em ensopados e sopas adiciona um toque terroso que os Speranzanos nostálgicos passaram a amar.",
+          "pt-BR": "Embora as folhas das bagavelas sejam amargas, cozinhá-las lentamente em ensopados e sopas adiciona um toque terroso que os speranzanos nostálgicos aprenderam a amar.",
           "he": "למרות מרירותם של עלי הקנדלברי, בישולם בנזידים ובמרקים מוסיף טעם אדמה עדין שהספרנזים הנוסטלגיים למדו לאהוב."
         },
         "requirementItemIds": [

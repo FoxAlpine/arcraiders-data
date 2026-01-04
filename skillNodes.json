@@ -2088,7 +2088,7 @@
       "uk": "Швидкість лазіння та стрибків",
       "hr": "Brzina Penjanja i Preskakanja",
       "sr": "Brzina Penjanja i Preskakanja",
-      "pt-BR": "Velocidade de Escalada e Salto",
+      "pt-BR": "Velocidade de Escalada e Pulo",
       "he": "מהירות טיפוס ודילוג"
     },
     "knownValue": [],
@@ -2125,7 +2125,7 @@
       "uk": "Героїчний стрибок",
       "hr": "Herojski Skok",
       "sr": "Herojski Skok",
-      "pt-BR": "Salto Heroíco",
+      "pt-BR": "Salto Heroico",
       "he": "זינוק הירואי"
     },
     "description": {
@@ -2391,7 +2391,7 @@
       "uk": "Дозволяє стрибати в кінці стрибка через перешкоду.",
       "hr": "Omogućava vam da skočite na kraju preskakanja.",
       "sr": "Omogućava vam da skočite na kraju preskakanja.",
-      "pt-BR": "Permite que você pule no final de um salto.",
+      "pt-BR": "Permite pular ao final de um salto de obstáculo.",
       "he": "מאפשר לך לקפוץ בסיום דילוג מעל מכשול."
     },
     "impactedSkill": {
@@ -2413,7 +2413,7 @@
       "uk": "Стрибок з перешкоди",
       "hr": "Skok Preskakanja",
       "sr": "Skok Preskakanja",
-      "pt-BR": "Salto de salto",
+      "pt-BR": "Salto de Obstáculo",
       "he": "קפיצת דילוג"
     },
     "knownValue": [],
@@ -2736,7 +2736,7 @@
       "uk": "Зменшення шуму",
       "hr": "Smanjenje Buke",
       "sr": "Smanjenje Buke",
-      "pt-BR": "Redução de ruído",
+      "pt-BR": "Redução de Ruído",
       "he": "הפחתת רעש"
     },
     "knownValue": [],

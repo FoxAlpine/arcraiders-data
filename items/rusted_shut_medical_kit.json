@@ -19,7 +19,7 @@
     "tr": "Paslanmış Tıbbi Kit",
     "hr": "Zahrđali Zatvoreni Medicinski Komplet",
     "sr": "Zahrđali Zatvoreni Medicinski Komplet",
-    "pt-BR": "Kit Médico Emperrado",
+    "pt-BR": "Kit Médico Enferrujado",
     "he": "ערכת רפואה סגורה מחלודה"
   },
   "description": {
@@ -41,7 +41,7 @@
     "tr": "Paslanmış bir tıbbi kit, içeriği bilinmiyor.",
     "hr": "Medicinski komplet zahrđao i zatvoren, sadržaj nepoznat.",
     "sr": "Medicinski komplet zahrđao i zatvoren, sadržaj nepoznat.",
-    "pt-BR": "Um kit médico emperrado pela ferrugem, com conteúdo desconhecido.",
+    "pt-BR": "Um kit médico enferrujado fechado, seu conteúdo é desconhecido.",
     "he": "ערכת רפואה סגורה מחלודה, תוכנה אינו ידוע."
   },
   "type": "Recyclable",

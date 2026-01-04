@@ -41,7 +41,7 @@
     "tr": "Dağılma ve geri tepme toparlanma süresini önemli ölçüde iyileştirir.",
     "hr": "Značajno poboljšava raspršenje i vrijeme oporavka trzaja.",
     "sr": "Značajno poboljšava raspršenje i vreme oporavka trzaja.",
-    "pt-BR": "Melhora significativamente a dispersão e o tempo de recuperação de recuo.",
+    "pt-BR": "Melhora significativamente a dispersão e o tempo de recuperação do recuo.",
     "he": "משפרת משמעותית את הפיזור ואת זמן ההתאוששות מהרתע."
   },
   "type": "Modification",
@@ -69,7 +69,7 @@
       "hr": "50% Smanjeno Vrijeme Oporavka Trzaja",
       "sr": "50% Smanjeno Vreme Oporavka Trzaja",
       "value": "",
-      "pt-BR": "50% de Redução no Tempo de Recuperação de Recuo",
+      "pt-BR": "Tempo de Recuperação do Recuo Reduzido em 50%",
       "he": "50% זמן התאוששות מרתע מופחת"
     },
     "50% Reduced Dispersion Recovery Time": {
@@ -92,7 +92,7 @@
       "hr": "50% Smanjeno Vrijeme Oporavka Raspršenja",
       "sr": "50% Smanjeno Vreme Oporavka Raspršenja",
       "value": "",
-      "pt-BR": "50% de Redução no Tempo de Recuperação de Dispersão",
+      "pt-BR": "Tempo de Recuperação da Dispersão Reduzido em 50%",
       "he": "50% זמן התאוששות מפיזור מופחת"
     },
     "20% Increased Equip Time": {
@@ -115,7 +115,7 @@
       "hr": "20% Povećano Vrijeme Opremanja",
       "sr": "20% Povećano Vreme Opremanja",
       "value": "",
-      "pt-BR": "Aumento de 20% no Tempo de Equipar",
+      "pt-BR": "Tempo de Equipamento Aumentado em 20%",
       "he": "זמן הצטיידות מוגדל ב-20%"
     },
     "20% Increased Unequip Time": {
@@ -138,7 +138,7 @@
       "hr": "20% Povećano Vrijeme Skidanja",
       "sr": "20% Povećano Vreme Skidanja",
       "value": "",
-      "pt-BR": "Aumento de 20% no Tempo de Desequipar",
+      "pt-BR": "Tempo de Desequipamento Aumentado em 20%",
       "he": "זמן הסרת ציוד מוגדל ב-20%"
     }
   },

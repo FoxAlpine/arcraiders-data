@@ -19,7 +19,7 @@
     "tr": "Eşekarısı Sürücü",
     "hr": "Osinjak",
     "sr": "Osinjak",
-    "pt-BR": "Controlador de Vespa",
+    "pt-BR": "Propulsor de Vespa",
     "he": "ווספ דרייבר"
   },
   "tip": "The Wasp Driver is a rare item is dropped by Wasps that can be recycled into crafting materials.",
@@ -42,7 +42,7 @@
     "tr": "ARC Alaşımına geri dönüştürülebilir. Fırlatılabilir ve vurulursa patlar.",
     "hr": "Može se reciklirati u ARC leguru. Može se baciti i eksplodirat će ako se pogodi.",
     "sr": "Može se reciklirati u ARC leguru. Može se baciti i eksplodiraće ako se pogodi.",
-    "pt-BR": "Pode ser reciclado em Liga ARC. Pode ser arremessado e explodirá se for alvejado.",
+    "pt-BR": "Pode ser reciclado em liga ARC. Pode ser arremessado e explodirá se for atingido.",
     "he": "ניתן למחזור ל-סגסוגת ARC. ניתן לזריקה, ויתפוצץ אם יורים עליו."
   },
   "type": "Recyclable",

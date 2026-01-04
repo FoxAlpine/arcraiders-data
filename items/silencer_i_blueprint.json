@@ -19,7 +19,7 @@
     "tr": "Susturucu I Planı",
     "hr": "Nacrt za Prigušivač I",
     "sr": "Nacrt za Prigušivač I",
-    "pt-BR": "Diagrama de Silenciador I",
+    "pt-BR": "Projeto de Silenciador I",
     "he": "שרטוט משתיק I"
   },
   "description": {
@@ -41,7 +41,7 @@
     "tr": "Susturucu I üretmek için bir plan.",
     "hr": "Nacrt za izradu Prigušivača I.",
     "sr": "Nacrt za izradu Prigušivača I.",
-    "pt-BR": "Um projeto para criar o Silenciador I.",
+    "pt-BR": "Um projeto para fabricar o Silenciador I.",
     "he": "שרטוט ליצירת משתיק קול I."
   },
   "type": "Blueprint",

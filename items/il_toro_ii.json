@@ -113,7 +113,7 @@
       "hr": "Veličina spremnika",
       "sr": "Veličina spremnika",
       "value": 6,
-      "pt-BR": "Tamanho do Carregador",
+      "pt-BR": "Tamanho do Pente",
       "he": "גודל מחסנית"
     },
     "Firing Mode": {
@@ -159,7 +159,7 @@
       "hr": "ARC probijanje oklopa",
       "sr": "ARC probijanje oklopa",
       "value": "Weak",
-      "pt-BR": "Penetração de Armadura ARC",
+      "pt-BR": "Penetração contra blindagem ARC",
       "he": "חדירת שריון ARC"
     },
     "Increased Fire Rate": {
@@ -182,7 +182,7 @@
       "pt": "Taxa de Disparo Aumentada",
       "da": "Øget Skudhastighed",
       "value": "17.5%",
-      "pt-BR": "Cadência de Tiro Aumentada",
+      "pt-BR": "Aumento na Cadência de Tiro",
       "he": "קצב אש מוגבר"
     }
   },

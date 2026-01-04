@@ -19,7 +19,7 @@
     "tr": "Vulcano I",
     "hr": "Vulcano I",
     "sr": "Vulcano I",
-    "pt-BR": "Vulcano I",
+    "pt-BR": "Vulcão I",
     "he": "Vulcano I"
   },
   "description": {
@@ -138,7 +138,7 @@
       "pt": "Tamanho do carregador",
       "da": "Magasinstørrelse",
       "value": 6,
-      "pt-BR": "Tamanho do Carregador",
+      "pt-BR": "Tamanho do Pente",
       "he": "גודל מחסנית"
     },
     "Firing Mode": {
@@ -184,7 +184,7 @@
       "pt": "Penetração de armadura ARC",
       "da": "ARC rustningspenetration",
       "value": "Weak",
-      "pt-BR": "Penetração de Armadura ARC",
+      "pt-BR": "Penetração contra blindagem ARC",
       "he": "חדירת שריון ARC"
     }
   },

@@ -19,7 +19,7 @@
     "tr": "Kettle III",
     "hr": "Kettle III",
     "sr": "Kettle III",
-    "pt-BR": "Kettle III",
+    "pt-BR": "Chaleira III",
     "he": "קטל III"
   },
   "description": {
@@ -115,7 +115,7 @@
       "hr": "Veličina spremnika",
       "sr": "Veličina okvira",
       "value": 20,
-      "pt-BR": "Tamanho do Carregador",
+      "pt-BR": "Tamanho do Pente",
       "he": "גודל מחסנית"
     },
     "Firing Mode": {
@@ -161,7 +161,7 @@
       "hr": "ARC probijanje oklopa",
       "sr": "ARC probijanje oklopa",
       "value": "Very Weak",
-      "pt-BR": "Penetração de Blindagem ARC",
+      "pt-BR": "Penetração contra blindagem ARC",
       "he": "חדירת שריון ARC"
     },
     "Upgrade Modifiers": {

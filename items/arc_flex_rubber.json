@@ -19,7 +19,7 @@
     "tr": "Arc Esnek Kauçuk",
     "hr": "ARC Fleksibilna Guma",
     "sr": "ARC Fleksibilna Guma",
-    "pt-BR": "Borracha Flexível ARC",
+    "pt-BR": "Borracha Arc Flex",
     "he": "גומי ARC גמיש"
   },
   "type": "Recyclable",
@@ -43,7 +43,7 @@
     "tr": "Üretim malzemelerine geri dönüştürülebilir.",
     "hr": "Može se reciklirati u materijale za izradu.",
     "sr": "Može se reciklirati u materijale za izradu.",
-    "pt-BR": "Pode ser reciclado em materiais de criação.",
+    "pt-BR": "Pode ser reciclado em materiais de fabricação.",
     "he": "ניתן למחזר לחומרי יצירה."
   },
   "weightKg": 1,

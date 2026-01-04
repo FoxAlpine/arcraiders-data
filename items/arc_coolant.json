@@ -19,7 +19,7 @@
     "tr": "ARC Soğutucu",
     "hr": "ARC rashladna tekućina",
     "sr": "ARC rashladna tečnost",
-    "pt-BR": "Refrigerante ARC",
+    "pt-BR": "Líquido de Arrefecimento ARC",
     "he": "נוזל קירור ARC"
   },
   "rarity": "Rare",
@@ -50,7 +50,7 @@
     "tr": "ARC düşmanlarından veya aktivitelerden elde edilir. Kimyasallara geri dönüştürülebilir.",
     "hr": "Dobiva se od ARC neprijatelja ili aktivnosti. Može se reciklirati u kemikalije.",
     "sr": "Dobija se od ARC neprijatelja ili aktivnosti. Može se reciklirati u hemikalije.",
-    "pt-BR": "Obtido de inimigos ou atividades ARC. Pode ser reciclado em produtos químicos.",
+    "pt-BR": "Obtido de inimigos ou atividades ARC. Pode ser reciclado em químicos.",
     "he": "ניתן להשגה מאויבי ARC או מפעילויות. ניתן למחזר לכימיקלים."
   },
   "weightKg": 1,

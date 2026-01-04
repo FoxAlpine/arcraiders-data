@@ -19,7 +19,7 @@
     "tr": "Kettle IV",
     "hr": "Kettle IV",
     "sr": "Kettle IV",
-    "pt-BR": "Kettle IV",
+    "pt-BR": "Chaleira IV",
     "he": "קטל IV"
   },
   "description": {
@@ -115,7 +115,7 @@
       "hr": "Veličina spremnika",
       "sr": "Veličina okvira",
       "value": 20,
-      "pt-BR": "Tamanho do Carregador",
+      "pt-BR": "Tamanho do Pente",
       "he": "גודל מחסנית"
     },
     "Firing Mode": {
@@ -161,7 +161,7 @@
       "hr": "ARC probijanje oklopa",
       "sr": "ARC probijanje oklopa",
       "value": "Very Weak",
-      "pt-BR": "Penetração de Armadura ARC",
+      "pt-BR": "Penetração contra blindagem ARC",
       "he": "חדירת שריון ARC"
     }
   },

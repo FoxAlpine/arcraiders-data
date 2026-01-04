@@ -19,7 +19,7 @@
     "tr": "Şok Mayını",
     "hr": "Omamljujuća Mina",
     "sr": "Omamljujuća Mina",
-    "pt-BR": "Mina de Choque",
+    "pt-BR": "Mina Elétrica",
     "he": "מוקש הלם"
   },
   "description": {
@@ -69,7 +69,7 @@
       "hr": "Trajanje ARC Omamljivanja",
       "sr": "Trajanje ARC Omamljivanja",
       "value": "10s",
-      "pt-BR": "Duração do Atordoamento em ARC",
+      "pt-BR": "Duração de Atordoamento ARC",
       "he": "משך הלם ARC"
     },
     "Raider Stun Duration": {
@@ -92,7 +92,7 @@
       "hr": "Trajanje Omamljivanja Pljačkaša",
       "sr": "Trajanje Omamljivanja Pljačkaša",
       "value": "4s",
-      "pt-BR": "Duração do Atordoamento em Raider",
+      "pt-BR": "Duração de Atordoamento de Combatente",
       "he": "משך הלם ריידר"
     },
     "Radius": {

@@ -19,7 +19,7 @@
     "tr": "Bastion Hücresi",
     "hr": "Bastion ćelija",
     "sr": "Bastion ćelija",
-    "pt-BR": "Célula Bastião",
+    "pt-BR": "Células de Baluarte",
     "he": "תא באסטיון"
   },
   "rarity": "Epic",
@@ -51,7 +51,7 @@
     "tr": "Üretim malzemelerine geri dönüştürülebilir.",
     "hr": "Može se reciklirati u materijale za izradu.",
     "sr": "Može se reciklirati u materijale za izradu.",
-    "pt-BR": "Pode ser reciclada em materiais de fabricação.",
+    "pt-BR": "Pode ser reciclado em materiais de fabricação.",
     "he": "ניתן למיחזור לחומרי יצירה."
   },
   "weightKg": 1,

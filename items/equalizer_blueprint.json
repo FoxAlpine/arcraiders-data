@@ -19,7 +19,7 @@
     "hr": "Nacrt Izjednačivača",
     "pt": "Projeto do Equalizador",
     "da": "Equalizer-tegning",
-    "pt-BR": "Diagrama da Equalizer",
+    "pt-BR": "Projeto da Equalizador",
     "he": "שרטוט Equalizer"
   },
   "description": {
@@ -41,7 +41,7 @@
     "hr": "Eksperimentalna zrakasta puška velikog kapaciteta.",
     "pt": "Um rifle de raios experimental de alta capacidade.",
     "da": "En eksperimentel stråleriffel med høj kapacitet.",
-    "pt-BR": "Um rifle de feixe experimental de alta capacidade.",
+    "pt-BR": "Um rifle de raios experimental de alta capacidade.",
     "he": "רובה קרן ניסיוני בעל קיבולת גבוהה."
   },
   "type": "Blueprint",

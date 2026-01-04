@@ -96,7 +96,7 @@
       "pt": "Tamanho do carregador",
       "da": "Magasinstørrelse",
       "value": 5,
-      "pt-BR": "Tamanho do Carregador",
+      "pt-BR": "Tamanho do Pente",
       "he": "גודל מחסנית"
     },
     "Firing Mode": {
@@ -142,7 +142,7 @@
       "pt": "Penetração de armadura ARC",
       "da": "ARC rustningspenetrering",
       "value": "Very Strong",
-      "pt-BR": "Penetração de Blindagem ARC",
+      "pt-BR": "Penetração contra blindagem ARC",
       "he": "חדירת שריון ARC"
     },
     "Special Trait": {
@@ -165,7 +165,7 @@
       "pt": "Traço especial",
       "da": "Særlig egenskab",
       "value": "Experimental",
-      "pt-BR": "Característica Especial",
+      "pt-BR": "Atributo Especial",
       "he": "תכונה מיוחדת"
     }
   },

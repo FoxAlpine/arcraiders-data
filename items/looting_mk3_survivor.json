@@ -41,7 +41,7 @@
     "uk": "Посилена аугментація в'ючної тварини. Велика вантажопідйомність і великий простір рюкзака. Під час знепритомнення та нерухомості здоров'я відновлюється до 75% від максимального здоров'я у знепритомненні.",
     "sr": "Pojačana augmentacija tovarne životinje. Veliki kapacitet težine i veliki prostor za ranac. Dok ste oboreni i nepokretni, zdravlje se regeneriše do 75% maksimalnog zdravlja u oborenom stanju.",
     "hr": "Pojačana augmentacija tovarne životinje. Veliki kapacitet težine i veliki prostor za ruksak. Dok ste oboreni i nepokretni, zdravlje se regenerira do 75% maksimalnog zdravlja u oborenom stanju.",
-    "pt-BR": "Um aumento de mula de carga robusto. Grande capacidade de peso e grande espaço na mochila. Enquanto estiver derrubado e parado, a saúde regenera até 75% da vida máxima de derrubado.",
+    "pt-BR": "Um aumento de mula de carga resistente. Grande capacidade de peso e grande espaço de mochila. Enquanto caído e parado, a saúde regenera até 75% da saúde máxima caído.",
     "he": "תוסף לנשיאת משקלים כבדים. קיבולת משקל גדולה ומקום רב בתיק. במצב נפילה וללא תנועה, הבריאות מתחדשת עד 75% מבריאות הנפילה המירבית."
   },
   "type": "Augment",
@@ -113,7 +113,7 @@
       "sr": "Kompatibilnost sa štitom",
       "hr": "Kompatibilnost sa štitom",
       "value": "Light, Medium",
-      "pt-BR": "Compatibilidade de Escudo",
+      "pt-BR": "Compatibilidade com Escudo",
       "he": "תאימות מגן"
     }
   },

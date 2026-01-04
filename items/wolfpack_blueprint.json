@@ -19,7 +19,7 @@
     "tr": "Wolfpack Planı",
     "hr": "Nacrt Wolfpack",
     "sr": "Nacrt Wolfpack",
-    "pt-BR": "Projeto da Alcateia",
+    "pt-BR": "Projeto Matilha de Lobo",
     "he": "שרטוט להקת זאבים"
   },
   "description": {
@@ -41,7 +41,7 @@
     "tr": "Yüzeylere ve ARC'ye yapışabilen, tetiklendiğinde patlayıcı hasar veren uzaktan patlatmalı el bombası.",
     "hr": "Daljinski aktivirana granata koja se može zalijepiti na površine i ARC, nanoseći eksplozivnu štetu kada se aktivira.",
     "sr": "Daljinski aktivirana granata koja se može zalepiti na površine i ARC, nanoseći eksplozivnu štetu kada se aktivira.",
-    "pt-BR": "Uma granada de detonação remota que pode aderir a superfícies e ARC, causando dano explosivo quando acionada.",
+    "pt-BR": "Uma granada de detonação remota que pode grudar em superfícies e ARC, causando dano explosivo quando acionada.",
     "he": "רימון להפעלה מרחוק שיכול להידבק למשטחים ול-ARC, וגורם נזק פיצוץ בעת הפעלה."
   },
   "type": "Blueprint",

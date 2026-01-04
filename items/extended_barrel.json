@@ -40,7 +40,7 @@
     "uk": "Помірно збільшує швидкість кулі. Сумісно з: Tempest, Arpeggio, Ferro, Renegade, Anvil",
     "sr": "Umereno povećava brzinu metka. Kompatibilno sa: Tempest, Arpeggio, Ferro, Renegade, Anvil",
     "hr": "Umjereno povećava brzinu metka. Kompatibilno s: Tempest, Arpeggio, Ferro, Renegade, Anvil",
-    "pt-BR": "Aumenta moderadamente a velocidade do projétil. Compatível com: Tempest, Arpeggio, Ferro, Renegade, Anvil",
+    "pt-BR": "Aumenta moderadamente a velocidade das balas. Compatível com: Temporal, Arpeggio, Ferro, Renegado, Bigorna",
     "he": "מגביר באופן מתון את מהירות הקליע. תואם ל: Tempest, Arpeggio, Ferro, Renegade, Anvil"
   },
   "id": "extended_barrel",
@@ -69,7 +69,7 @@
       "sr": "Povećana brzina metka",
       "hr": "Povećana brzina metka",
       "value": "25%",
-      "pt-BR": "Aumento da Velocidade do Projétil",
+      "pt-BR": "Velocidade de Bala Aumentada",
       "he": "מהירות קליע מוגברת"
     },
     "Increased Vertical Recoil": {
@@ -92,7 +92,7 @@
       "sr": "Povećan vertikalni trzaj",
       "hr": "Povećan vertikalni trzaj",
       "value": "15%",
-      "pt-BR": "Aumento do Recuo Vertical",
+      "pt-BR": "Recuo Vertical Aumentado",
       "he": "רתע אנכי מוגבר"
     }
   },

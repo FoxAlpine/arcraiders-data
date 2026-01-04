@@ -19,7 +19,7 @@
     "tr": "Kapsül",
     "hr": "Kanister",
     "sr": "Kanister",
-    "pt-BR": "Cânister",
+    "pt-BR": "Vasilhame",
     "he": "מיכל"
   },
   "description": {
@@ -41,7 +41,7 @@
     "tr": "Çok çeşitli eşyaları üretmek için kullanılır. Plastiğe geri dönüştürülebilir. Üretim için kullanılır: Bettina, Vita Spray, Ağır Fünye Bombası, Sis Bombası",
     "hr": "Koristi se za izradu širokog spektra predmeta. Može se reciklirati u plastiku. Koristi se za izradu: Bettina, Vita Spray, Heavy Fuze Grenade, Smoke Grenade",
     "sr": "Koristi se za pravljenje širokog spektra predmeta. Može se reciklirati u plastiku. Koristi se za pravljenje: Bettina, Vita Spray, Heavy Fuze Grenade, Smoke Grenade",
-    "pt-BR": "Usado para fabricar uma ampla gama de itens. Pode ser reciclado em plástico. Usado para fabricar: Bettina, Vita Spray, Granada de Espoleta Pesada, Granada de Fumaça",
+    "pt-BR": "Serve para fabricar vários tipos de itens. Reciclar gera plástico. Usado para fabricar: Bettina, Spray Vita, Granada de Espoleta Pesada, Granada de Fumaça",
     "he": "משמש ליצירת מגוון רחב של פריטים. ניתן למחזור לפלסטיק. משמש ליצירת: בטינה, תרסיס ויטה, רימון מרעום כבד, רימון עשן"
   },
   "type": "Topside Material",

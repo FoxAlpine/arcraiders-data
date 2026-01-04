@@ -19,7 +19,7 @@
     "tr": "Defibrilatör Planı",
     "hr": "Nacrt za Defibrilator",
     "sr": "Nacrt za Defibrilator",
-    "pt-BR": "Diagrama do Desfibrilador",
+    "pt-BR": "Projeto de Desfibrilador",
     "he": "שרטוט דפיברילטור"
   },
   "description": {
@@ -41,7 +41,7 @@
     "tr": "Yere düşmüş akıncıları hızlıca canlandıran ve biraz sağlık kazandıran bir enjeksiyon.",
     "hr": "Injekcija koja brzo oživljava oborene pljačkaše i obnavlja dio zdravlja.",
     "sr": "Injekcija koja brzo oživljava oborene pljačkaše i obnavlja deo zdravlja.",
-    "pt-BR": "Uma injeção que reanima rapidamente Raiders abatidos e restaura um pouco de saúde.",
+    "pt-BR": "Uma injeção que revive rapidamente saqueadores caídos e restaura um pouco de saúde.",
     "he": "זריקה המקימה במהירות ריידרים מנוטרלים ומשיבה מעט בריאות."
   },
   "type": "Blueprint",

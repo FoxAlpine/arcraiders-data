@@ -19,7 +19,7 @@
     "tr": "Snap Hook Planı",
     "hr": "Nacrt Snap Hook",
     "sr": "Nacrt Snap Hook",
-    "pt-BR": "Diagrama do Gancho de Engate",
+    "pt-BR": "Projeto de Mosquetão",
     "he": "שרטוט וו קפיצי"
   },
   "description": {
@@ -41,7 +41,7 @@
     "tr": "Kullanıcının yapılara tırmanmasını ve büyük mesafeleri kat etmesini sağlayan bir alet.",
     "hr": "Naprava koja korisniku omogućuje penjanje po strukturama i prelaženje velikih udaljenosti.",
     "sr": "Naprava koja korisniku omogućava penjanje po strukturama i prelaženje velikih udaljenosti.",
-    "pt-BR": "Um dispositivo que permite ao usuário escalar estruturas e percorrer grandes distâncias.",
+    "pt-BR": "Um dispositivo que permite ao usuário escalar estruturas e cobrir grandes distâncias.",
     "he": "גאדג'ט המאפשר למשתמש לטפס על מבנים ולעבור מרחקים גדולים."
   },
   "type": "Blueprint",

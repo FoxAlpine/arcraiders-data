@@ -19,7 +19,7 @@
     "tr": "Afelion Plani",
     "hr": "Aphelion Nacrt",
     "sr": "Aphelion Nacrt",
-    "pt-BR": "Diagrama de Aphelion",
+    "pt-BR": "Projeto de Afélio",
     "he": "שרטוט Aphelion"
   },
   "description": {
@@ -41,7 +41,7 @@
     "tr": "Matriarch Reaktoru ile calisan deneysel bir ARC isin silahi.",
     "hr": "Eksperimentalno ARC zrakasto oruzje pokretano Matriarch reaktorom.",
     "sr": "Eksperimentalno ARC zrakasto oruzje pokretano Matriarch reaktorom.",
-    "pt-BR": "Uma arma de feixe experimental ARC alimentada por um Reator Matriarca.",
+    "pt-BR": "Uma arma de raio ARC experimental alimentada por um Reator Matriarca.",
     "he": "נשק קרן ARC נסיוני המופעל על ידי כור Matriarch."
   },
   "type": "Blueprint",

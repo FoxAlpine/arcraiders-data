@@ -19,7 +19,7 @@
     "kr": "래틀러 I",
     "pl": "Rattler I",
     "hr": "Rattler I",
-    "pt-BR": "Rattler I",
+    "pt-BR": "Matraca I",
     "he": "רטלר I"
   },
   "description": {
@@ -118,7 +118,7 @@
       "hr": "Veličina Spremnika",
       "sr": "Veličina Spremnika",
       "value": 12,
-      "pt-BR": "Tamanho do Carregador",
+      "pt-BR": "Tamanho do Pente",
       "he": "גודל מחסנית"
     },
     "Firing Mode": {
@@ -164,7 +164,7 @@
       "hr": "ARC Probijanje Oklopa",
       "sr": "ARC Probijanje Oklopa",
       "value": "Moderate",
-      "pt-BR": "Penetração de Blindagem ARC",
+      "pt-BR": "Penetração contra blindagem ARC",
       "he": "חדירת שריון ARC"
     }
   },

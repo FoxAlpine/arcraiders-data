@@ -41,7 +41,7 @@
     "tr": "Ateş hızını orta düzeyde artırır. Uyumlu: Arpeggio, Rattler, Kettle, Ferro, Renegade",
     "hr": "Umjereno povećava brzinu paljbe. Kompatibilno s: Arpeggio, Rattler, Kettle, Ferro, Renegade",
     "sr": "Umereno povećava brzinu paljbe. Kompatibilno sa: Arpeggio, Rattler, Kettle, Ferro, Renegade",
-    "pt-BR": "Aumenta moderadamente a cadência de tiro. Compatível com: Arpeggio, Rattler, Kettle, Ferro, Renegade",
+    "pt-BR": "Aumenta moderadamente a taxa de disparo. Compatível com: Arpeggio, Matraca, Chaleira, Ferro, Renegado",
     "he": "מגביר במתינות את קצב האש. תואם ל: Arpeggio, Rattler, Kettle, Ferro, Renegade"
   },
   "type": "Modification",
@@ -68,7 +68,7 @@
       "hr": "Povećana brzina paljbe",
       "sr": "Povećana brzina paljbe",
       "value": "15%",
-      "pt-BR": "Cadência de Tiro Aumentada",
+      "pt-BR": "Aumento na Cadência de Tiro",
       "he": "קצב אש מוגבר"
     },
     "Increased Vertical Recoil": {

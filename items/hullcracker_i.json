@@ -19,7 +19,7 @@
     "tr": "Hullcracker I",
     "hr": "Hullcracker I",
     "sr": "Hullcracker I",
-    "pt-BR": "Hullcracker I",
+    "pt-BR": "Quebra-Casco I",
     "he": "Hullcracker I"
   },
   "description": {
@@ -115,7 +115,7 @@
       "hr": "Veličina Spremnika",
       "sr": "Veličina Okvira",
       "value": 5,
-      "pt-BR": "Tamanho do Carregador",
+      "pt-BR": "Tamanho do Pente",
       "he": "גודל מחסנית"
     },
     "Firing Mode": {
@@ -161,7 +161,7 @@
       "hr": "ARC Probijanje Oklopa",
       "sr": "ARC Probijanje Oklopa",
       "value": "Very Strong",
-      "pt-BR": "Penetração de Blindagem ARC",
+      "pt-BR": "Penetração contra blindagem ARC",
       "he": "חדירת שריון ARC"
     }
   },

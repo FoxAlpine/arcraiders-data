@@ -114,7 +114,7 @@
       "hr": "Veličina spremnika",
       "sr": "Veličina spremnika",
       "value": 70,
-      "pt-BR": "Tamanho do Carregador",
+      "pt-BR": "Tamanho do Pente",
       "he": "גודל מחסנית"
     },
     "Reduced Reload Time": {
@@ -137,7 +137,7 @@
       "hr": "Smanjeno vrijeme punjenja",
       "sr": "Smanjeno vreme punjenja",
       "value": "15%",
-      "pt-BR": "Tempo de Recarga Reduzido",
+      "pt-BR": "Redução no Tempo para Recarregar",
       "he": "זמן טעינה מופחת"
     },
     "Firing Mode": {
@@ -183,7 +183,7 @@
       "hr": "ARC probijanje oklopa",
       "sr": "ARC probijanje oklopa",
       "value": "Moderate",
-      "pt-BR": "Penetração de Armadura ARC",
+      "pt-BR": "Penetração contra blindagem ARC",
       "he": "חדירת שריון ARC"
     }
   },

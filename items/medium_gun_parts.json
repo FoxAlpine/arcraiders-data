@@ -19,7 +19,7 @@
     "tr": "Orta Boy Silah Parçaları",
     "hr": "Srednji Dijelovi Oružja",
     "sr": "Srednji Delovi Oružja",
-    "pt-BR": "Peças de Armas Médias",
+    "pt-BR": "Peças de Arma Média",
     "he": "חלקי נשק בינוניים"
   },
   "description": {
@@ -41,7 +41,7 @@
     "tr": "Tüfekler için çeşitli yedek parçalar. Üretimde kullanılır: Torrente, Venator, Osprey, Renegade, Tempest",
     "hr": "Razni rezervni dijelovi za puške. Koristi se za izradu: Torrente, Venator, Osprey, Renegade, Tempest",
     "sr": "Razni rezervni delovi za puške. Koristi se za izradu: Torrente, Venator, Osprey, Renegade, Tempest",
-    "pt-BR": "Peças sobressalentes variadas usadas para rifles. Usado para fabricar: Torrente, Venator, Osprey, Renegade, Tempest",
+    "pt-BR": "Peças de reposição variadas usadas para rifles. Usado para fabricar: Torrente, Venator, Águia-Pescadora, Renegado, Temporal",
     "he": "מגוון חלקי חילוף המשמשים לרובים. משמש ליצירת: Torrente, Venator, Osprey, Renegade, Tempest"
   },
   "type": "Topside Material",

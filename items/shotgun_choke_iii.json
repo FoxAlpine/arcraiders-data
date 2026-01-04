@@ -19,7 +19,7 @@
     "tr": "Av Tüfeği Çoku III",
     "hr": "Sačmarica Prigušnica III",
     "sr": "Sačmarica Prigušnica III",
-    "pt-BR": "Estrangulador de Escopeta III",
+    "pt-BR": "Choque de Escopeta III",
     "he": "צ'וק לרובה ציד III"
   },
   "description": {
@@ -92,7 +92,7 @@
       "hr": "Smanjeno Osnovno Raspršenje",
       "sr": "Smanjeno Osnovno Raspršenje",
       "value": "30%",
-      "pt-BR": "Dispersão base reduzida",
+      "pt-BR": "Dispersão Base Reduzida",
       "he": "פיזור בסיסי מופחת"
     },
     "Increased Durability Burn Rate": {
@@ -115,7 +115,7 @@
       "hr": "Povećana Stopa Trošenja Izdržljivosti",
       "sr": "Povećana Stopa Trošenja Izdržljivosti",
       "value": "20%",
-      "pt-BR": "Taxa de consumo de durabilidade aumentada",
+      "pt-BR": "Taxa de Consumo de Durabilidade Aumentada",
       "he": "קצב שחיקת עמידות מוגבר"
     }
   },

@@ -19,7 +19,7 @@
     "tr": "İhbarcı Tarayıcı",
     "hr": "Dojavljivač",
     "sr": "Dojavljivač",
-    "pt-BR": "Scanner de Delator",
+    "pt-BR": "Detector de Dedo-Duro",
     "he": "סורק Snitch"
   },
   "description": {
@@ -41,7 +41,7 @@
     "tr": "ARC Alaşımına geri dönüştürülebilir. ARC çağırmak için fırlatılabilir.",
     "hr": "Može se reciklirati u ARC leguru. Može se baciti kako bi se pozvao ARC.",
     "sr": "Može se reciklirati u ARC leguru. Može se baciti kako bi se pozvao ARC.",
-    "pt-BR": "Pode ser reciclado em Liga ARC. Pode ser arremessado para chamar a ARC.",
+    "pt-BR": "Pode ser reciclado em Liga ARC. Pode ser arremessado para chamar ARC.",
     "he": "ניתן למחזור ל-ARC Alloy. ניתן לזריקה כדי לזמן ARC."
   },
   "type": "Recyclable",

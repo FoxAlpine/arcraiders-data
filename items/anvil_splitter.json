@@ -19,7 +19,7 @@
     "tr": "Örs Bölücü",
     "hr": "Nakovanj Razdvajač",
     "sr": "Nakovanj Razdvajač",
-    "pt-BR": "Anvil Splitter",
+    "pt-BR": "Divisor de Bigorna",
     "he": "מפצל אנוויל"
   },
   "description": {
@@ -41,7 +41,7 @@
     "tr": "Örs için mermilerini 4 zayıf mermiye bölünen mermilerle değiştiren teknoloji modu.",
     "hr": "Tehnički mod za Nakovanj koji zamjenjuje njegove metke onima koji se dijele na 4 slabija projektila.",
     "sr": "Tehnički mod za Nakovanj koji zamenjuje njegove metke onima koji se dele na 4 slabija projektila.",
-    "pt-BR": "Mod tecnológico para o Anvil que substitui suas balas por outras que se dividem em 4 projéteis mais fracos.",
+    "pt-BR": "Modificação técnica para o Anvil que substitui suas balas por projéteis que se dividem em 4 projéteis mais fracos.",
     "he": "מוד טכני עבור ה-אנוויל שמחליף את הקליעים שלו בכאלו המתפצלים ל-4 קליעים חלשים יותר."
   },
   "type": "Modification",

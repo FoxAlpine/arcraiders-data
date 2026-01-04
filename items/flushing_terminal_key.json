@@ -19,7 +19,7 @@
     "tr": "Flushing Terminali Anahtarı",
     "hr": "Ključ Flushing Terminala",
     "sr": "Ključ Flushing Terminala",
-    "pt-BR": "Chave do Terminal de Descarga",
+    "pt-BR": "Chave do Terminal de Fluxo",
     "he": "מפתח מסוף השטיפה"
   },
   "description": {
@@ -41,7 +41,7 @@
     "tr": "Bu anahtar, Flushing Terminalini etkinleştirmek için \"The Stench of Corruption\" görevinde kullanılır",
     "hr": "Ovaj se ključ koristi u zadatku \"The Stench of Corruption\" za aktiviranje Flushing Terminala",
     "sr": "Ovaj ključ se koristi u zadatku \"The Stench of Corruption\" za aktiviranje Flushing Terminala",
-    "pt-BR": "Esta chave é usada na missão O Fedor da Corrupção para ativar o Terminal de Descarga",
+    "pt-BR": "Esta chave é usada na missão \"The Stench of Corruption\" para ativar o Terminal de Fluxo",
     "he": "מפתח זה משמש למשימה צחנת השחיתות כדי להפעיל את מסוף השטיפה"
   },
   "type": "Trinket",

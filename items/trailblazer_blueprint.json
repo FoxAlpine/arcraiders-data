@@ -19,7 +19,7 @@
     "tr": "Trailblazer Planı",
     "hr": "Nacrt Trailblazera",
     "sr": "Nacrt Trailblazera",
-    "pt-BR": "Projeto da Desbravadora",
+    "pt-BR": "Projeto de Desbravador",
     "he": "שרטוט טריילבלייזר"
   },
   "description": {
@@ -41,7 +41,7 @@
     "tr": "Trailblazer için üretim planını açar.",
     "hr": "Otključava nacrt izrade za Trailblazer.",
     "sr": "Otključava nacrt izrade za Trailblazer.",
-    "pt-BR": "Desbloqueia o projeto de fabricação da Desbravadora.",
+    "pt-BR": "Desbloqueia o projeto de fabricação de Desbravador.",
     "he": "פותח את שרטוט הייצור עבור הטריילבלייזר."
   },
   "type": "Blueprint",

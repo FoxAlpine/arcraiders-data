@@ -19,7 +19,7 @@
     "hr": "Lomač Trupa II",
     "pt": "Quebra-cascos II",
     "da": "Skrogknuser II",
-    "pt-BR": "Hullcracker II",
+    "pt-BR": "Quebra-Cascos II",
     "he": "Hullcracker II"
   },
   "effects": {
@@ -43,7 +43,7 @@
       "pt": "Taxa de Disparo Aumentada",
       "da": "Øget Skudhastighed",
       "value": "18%",
-      "pt-BR": "Cadência de Tiro Aumentada",
+      "pt-BR": "Aumento na Cadência de Tiro",
       "he": "קצב אש מוגבר"
     },
     "Durability": {
@@ -89,7 +89,7 @@
       "pt": "Tamanho do Carregador",
       "da": "Magasinstørrelse",
       "value": 5,
-      "pt-BR": "Tamanho do Carregador",
+      "pt-BR": "Tamanho do Pente",
       "he": "גודל מחסנית"
     },
     "Firing Mode": {
@@ -135,7 +135,7 @@
       "pt": "Penetração de Blindagem ARC",
       "da": "ARC Rustningspenetrering",
       "value": "Very Strong",
-      "pt-BR": "Penetração de Blindagem ARC",
+      "pt-BR": "Penetração contra blindagem ARC",
       "he": "חדירת שריון ARC"
     },
     "Ammo Type": {

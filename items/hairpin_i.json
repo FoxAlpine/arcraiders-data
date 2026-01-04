@@ -19,7 +19,7 @@
     "tr": "Saç tokası I",
     "hr": "Ukosnica I",
     "sr": "Ukosnica I",
-    "pt-BR": "Hairpin I",
+    "pt-BR": "Grampo de cabelo I",
     "he": "היירפין I"
   },
   "description": {
@@ -41,7 +41,7 @@
     "tr": "Dahili susturucuya sahip. Gizlilik için harika, ancak savaşta kullanımı zor.",
     "hr": "Ima ugrađeni prigušivač. Odličan za prikradanje, ali nezgodan u borbi.",
     "sr": "Ima ugrađeni prigušivač. Odličan za prikradanje, ali nezgodan u borbi.",
-    "pt-BR": "Possui silenciador integrado. Ótima para furtividade, mas complicada em combate.",
+    "pt-BR": "Tem um silenciador integrado. Ótimo para furtividade, mas complicado em combate.",
     "he": "בעל משתיק קול מובנה. מצוין להתגנבות, אך מאתגר בקרב."
   },
   "type": "Pistol",
@@ -113,7 +113,7 @@
       "hr": "Veličina Spremnika",
       "sr": "Veličina Spremnika",
       "value": 8,
-      "pt-BR": "Tamanho do Carregador",
+      "pt-BR": "Tamanho do Pente",
       "he": "גודל מחסנית"
     },
     "Firing Mode": {
@@ -159,7 +159,7 @@
       "hr": "ARC Probijanje Oklopa",
       "sr": "ARC Probijanje Oklopa",
       "value": "Very Weak",
-      "pt-BR": "Penetração de Blindagem ARC",
+      "pt-BR": "Penetração contra blindagem ARC",
       "he": "חדירת שריון ARC"
     },
     "Special Trait": {

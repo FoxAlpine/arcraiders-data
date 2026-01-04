@@ -19,7 +19,7 @@
     "tr": "Bobcat II",
     "hr": "Bobcat II",
     "sr": "Bobcat II",
-    "pt-BR": "Bobcat II",
+    "pt-BR": "Lince II",
     "he": "בובקאט II"
   },
   "description": {
@@ -124,7 +124,7 @@
       "hr": "Veličina spremnika",
       "sr": "Veličina okvira",
       "value": 20,
-      "pt-BR": "Tamanho do Carregador",
+      "pt-BR": "Tamanho do Pente",
       "he": "גודל מחסנית"
     },
     "Firing Mode": {
@@ -170,7 +170,7 @@
       "hr": "ARC probijanje oklopa",
       "sr": "ARC probijanje oklopa",
       "value": "Very Weak",
-      "pt-BR": "Penetração de Blindagem ARC",
+      "pt-BR": "Penetração contra blindagem ARC",
       "he": "חדירת שריון ARC"
     },
     "Damage": {
@@ -216,7 +216,7 @@
       "hr": "Brzina paljbe",
       "sr": "Brzina paljbe",
       "value": 66.7,
-      "pt-BR": "Cadência de Tiro",
+      "pt-BR": "Taxa de disparo",
       "he": "קצב אש"
     },
     "Range": {
@@ -331,7 +331,7 @@
       "hr": "Smanjena maksimalna disperzija",
       "sr": "Smanjena maksimalna disperzija",
       "value": "15%",
-      "pt-BR": "Dispersão Máxima de Disparo Reduzida",
+      "pt-BR": "Redução na Dispersão Máxima de Disparos",
       "he": "פיזור ירי מרבי מופחת"
     },
     "Reduced Horizontal Recoil": {
@@ -377,7 +377,7 @@
       "hr": "Smanjeno vrijeme punjenja",
       "sr": "Smanjeno vrijeme punjenja",
       "value": "13%",
-      "pt-BR": "Tempo de Recarga Reduzido",
+      "pt-BR": "Redução no Tempo para Recarregar",
       "he": "זמן טעינה מופחת"
     }
   },

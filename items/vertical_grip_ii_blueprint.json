@@ -19,7 +19,7 @@
     "tr": "Dikey Kabza II Plani",
     "hr": "Vertikalni Drzac II Nacrt",
     "sr": "Vertikalni Drzac II Nacrt",
-    "pt-BR": "Projeto da Empunhadura Vertical II",
+    "pt-BR": "Projeto de Empunhadura Vertical II",
     "he": "שרטוט ידית אחיזה אנכית II"
   },
   "description": {
@@ -41,7 +41,7 @@
     "tr": "Dikey geri tepmesini orta derecede azaltir. Uyumlu silahlar: Arpeggio, Ferro, Venator, Il Toro, Stitcher",
     "hr": "Umjereno smanjuje vertikalni trzaj. Kompatibilno s: Arpeggio, Ferro, Venator, Il Toro, Stitcher",
     "sr": "Umereno smanjuje vertikalni trzaj. Kompatibilno sa: Arpeggio, Ferro, Venator, Il Toro, Stitcher",
-    "pt-BR": "Reduz moderadamente o recuo vertical. Compatível com: Arpeggio, Ferro, Venator, Il Toro, Stitcher",
+    "pt-BR": "Reduz moderadamente o recuo vertical. Compativel com: Arpeggio, Ferro, Venator, Il Toro, Costurador",
     "he": "מפחיתה באופן בינוני את הרתע האנכי. תואמת ל: Arpeggio, Ferro, Venator, Il Toro, Stitcher"
   },
   "type": "Blueprint",

@@ -19,7 +19,7 @@
     "uk": "Пошкоджена енергоклітина ARC",
     "hr": "Oštećena ARC energetska ćelija",
     "sr": "Oštećena ARC energetska ćelija",
-    "pt-BR": "Célula de Energia ARC Danificada",
+    "pt-BR": "Bateria ARC Danificada",
     "he": "תא כוח ARC פגום"
   },
   "description": {
@@ -41,7 +41,7 @@
     "uk": "Можна переробити на матеріали для крафту.",
     "hr": "Može se reciklirati u materijale za izradu.",
     "sr": "Može se reciklirati u materijale za izradu.",
-    "pt-BR": "Pode ser reciclado em materiais de fabricação.",
+    "pt-BR": "Pode ser reciclado em materiais de criação.",
     "he": "ניתן למיחזור לחומרי יצירה."
   },
   "type": "Recyclable",

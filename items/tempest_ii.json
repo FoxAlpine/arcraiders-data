@@ -19,7 +19,7 @@
     "tr": "Fırtına II",
     "hr": "Oluja II",
     "sr": "Олуја II",
-    "pt-BR": "Tempest II",
+    "pt-BR": "Temporal II",
     "he": "טמפסט II"
   },
   "description": {
@@ -113,7 +113,7 @@
       "hr": "Veličina Spremnika",
       "sr": "Veličina Spremnika",
       "value": 25,
-      "pt-BR": "Tamanho do Carregador",
+      "pt-BR": "Tamanho do Pente",
       "he": "גודל מחסנית"
     },
     "Firing Mode": {
@@ -159,7 +159,7 @@
       "hr": "ARC Probijanje Oklopa",
       "sr": "ARC Probijanje Oklopa",
       "value": "Moderate",
-      "pt-BR": "Penetração de Armadura ARC",
+      "pt-BR": "Penetração contra blindagem ARC",
       "he": "חדירת שריון ARC"
     },
     "Reduced Horizontal Recoil": {
@@ -205,7 +205,7 @@
       "hr": "Smanjeno vrijeme punjenja",
       "sr": "Smanjeno vrijeme punjenja",
       "value": "13%",
-      "pt-BR": "Tempo de Recarga Reduzido",
+      "pt-BR": "Redução no Tempo para Recarregar",
       "he": "זמן טעינה מופחת"
     }
   },

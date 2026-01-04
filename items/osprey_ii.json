@@ -19,7 +19,7 @@
     "hr": "Osprey II",
     "pt": "Osprey II",
     "da": "Osprey II",
-    "pt-BR": "Osprey II",
+    "pt-BR": "Águia-Pescadora II",
     "he": "אוספריי II"
   },
   "effects": {
@@ -66,7 +66,7 @@
       "pt": "Tempo de recarga reduzido",
       "da": "Reduceret genladningstid",
       "value": "12.5%",
-      "pt-BR": "Tempo de Recarga Reduzido",
+      "pt-BR": "Redução no Tempo para Recarregar",
       "he": "זמן טעינה מופחת"
     },
     "Durability": {
@@ -135,7 +135,7 @@
       "pt": "Tamanho do carregador",
       "da": "Magasinstørrelse",
       "value": 8,
-      "pt-BR": "Tamanho do Carregador",
+      "pt-BR": "Tamanho do Pente",
       "he": "גודל מחסנית"
     },
     "Firing Mode": {
@@ -181,7 +181,7 @@
       "pt": "Penetração de armadura ARC",
       "da": "ARC rustningspenetration",
       "value": "Moderate",
-      "pt-BR": "Penetração de Blindagem ARC",
+      "pt-BR": "Penetração contra blindagem ARC",
       "he": "חדירת שריון ARC"
     },
     "Special Trait": {
@@ -204,7 +204,7 @@
       "pt": "Característica especial",
       "da": "Særlig egenskab",
       "value": "Scoped",
-      "pt-BR": "Traço Especial",
+      "pt-BR": "Atributo Especial",
       "he": "תכונה מיוחדת"
     }
   },

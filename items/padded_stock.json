@@ -40,7 +40,7 @@
     "uk": "Значно покращує стабільність. Сумісно з: Arpeggio, Rattler, Ferro, Renegade, Torrente",
     "sr": "Značajno poboljšava stabilnost. Kompatibilno sa: Arpeggio, Rattler, Ferro, Renegade, Torrente",
     "hr": "Značajno poboljšava stabilnost. Kompatibilno s: Arpeggio, Rattler, Ferro, Renegade, Torrente",
-    "pt-BR": "Melhora significativamente a estabilidade. Compatível com: Arpeggio, Rattler, Ferro, Renegade, Torrente",
+    "pt-BR": "Melhora significativamente a estabilidade. Compatível com: Arpeggio, Matraca, Ferro, Renegado, Torrente",
     "he": "משפר משמעותית את היציבות. תואם ל: Arpeggio, Rattler, Ferro, Renegade, Torrente"
   },
   "id": "padded_stock",
@@ -115,7 +115,7 @@
       "sr": "Smanjeno rasipanje po hicu",
       "hr": "Smanjeno rasipanje po hicu",
       "value": "20%",
-      "pt-BR": "Dispersão por Tiro Reduzida",
+      "pt-BR": "Redução na Dispersão por Disparo",
       "he": "פיזור לכל ירייה מופחת"
     },
     "Increased Equip Time": {
