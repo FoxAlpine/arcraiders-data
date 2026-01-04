@@ -19,7 +19,8 @@
             "kr": "댐 전장",
             "tr": "baraj_savaş_alanları",
             "hr": "brana_bojišta",
-            "sr": "брана_бојишта"
+            "sr": "брана_бојишта",
+            "pt-BR": "Campos de Batalha da Represa"
         },
         "image": "https://cdn.arctracker.io/maps/dam_battlegrounds.png"
     },
@@ -43,7 +44,8 @@
             "kr": "우주 기지",
             "tr": "uzay_limani",
             "hr": "svemirska_luka",
-            "sr": "космопорт"
+            "sr": "космопорт",
+            "pt-BR": "Espaçoporto"
         },
         "image": "https://cdn.arctracker.io/maps/the_spaceport.png"
     },
@@ -67,7 +69,8 @@
             "kr": "파묻힌 도시",
             "tr": "gömülü_şehir",
             "hr": "zakopani_grad",
-            "sr": "покојени_град"
+            "sr": "покојени_град",
+            "pt-BR": "Cidade Soterrada"
         },
         "image": "https://cdn.arctracker.io/maps/buried_city.png"
     },
@@ -91,7 +94,8 @@
             "kr": "블루 게이트",
             "tr": "mavi_kapı",
             "hr": "plava_vrata",
-            "sr": "плава_врата"
+            "sr": "плава_врата",
+            "pt-BR": "O Portão Azul"
         },
         "image": "https://cdn.arctracker.io/maps/the_blue_gate.png"
     },
@@ -115,7 +119,8 @@
             "kr": "스텔라 몬티스",
             "tr": "dağ_yıldızı",
             "hr": "planinska_zvijezda",
-            "sr": "планинска_звезда"
+            "sr": "планинска_звезда",
+            "pt-BR": "Stella Montis"
         },
         "image": "https://cdn.arctracker.io/maps/stella_montis_upper.png"
     },
@@ -139,7 +144,8 @@
             "kr": "스텔라 몬티스",
             "tr": "dağ_yıldızı",
             "hr": "planinska_zvijezda",
-            "sr": "планинска_звезда"
+            "sr": "планинска_звезда",
+            "pt-BR": "Stella Montis"
         },
         "image": "https://cdn.arctracker.io/maps/stella_montis_lower.png"
     }
