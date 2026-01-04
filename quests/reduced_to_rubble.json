@@ -20,7 +20,7 @@
     "zh-TW": "化為廢墟",
     "sr": "Svedeno na Ruševine",
     "hr": "Svedeno na Ruševine",
-    "pt-BR": "Reduzido a Escombros",
+    "pt-BR": "Em escombros",
     "he": "הפך לעיי חורבות"
   },
   "map": [
@@ -46,7 +46,7 @@
     "zh-TW": "那條倒塌的高速公路讓我擔心；看起來是最近發生的。地表的大部分可能都是廢墟，但大多數都是很久以前的。",
     "sr": "Taj srušeni autoput me brine; izgleda da je skorašnji. Veći deo Gornje Strane je možda u ruševinama, ali većina toga je od pre mnogo vremena.",
     "hr": "Taj srušeni autoput me brine; izgleda da je nedavan. Veći dio Gornje Strane je možda u ruševinama, ali većina toga je od prije mnogo vremena.",
-    "pt-BR": "Aquela rodovia desmoronada me preocupa; parece ser recente. Grande parte da Superfície pode estar em ruínas, mas a maioria é de muito tempo atrás.",
+    "pt-BR": "Aquela rodovia que desabou me preocupa; parece ser recente. A maior parte da superficie tá em ruínas, mas quase tudo é de séculos atrás.",
     "he": "הכביש המהיר שקרס מדאיג אותי; נראה שזה קרה לאחרונה. חלקים גדולים מפני השטח אולי הרוסים, אבל רוב ההרס הוא מלפני עידנים."
   },
   "objectives": [
@@ -69,7 +69,7 @@
       "zh-TW": "拍攝倒塌的高速公路照片",
       "sr": "Uslikaj Srušeni Autoput",
       "hr": "Uslikaj Srušeni Autoput",
-      "pt-BR": "Tire uma foto da Rodovia Desmoronada",
+      "pt-BR": "Tire uma foto da Rodovia Desabada",
       "he": "צלם תמונה של הכביש המהיר שקרס"
     },
     {
@@ -91,7 +91,7 @@
       "zh-TW": "前往破碎大地",
       "sr": "Idi do Slomljene Zemlje",
       "hr": "Idi do Slomljene Zemlje",
-      "pt-BR": "Vá para Broken Earth",
+      "pt-BR": "Vá para a Terra Partida",
       "he": "לך אל האדמה השבורה"
     },
     {
@@ -113,7 +113,7 @@
       "zh-TW": "沿著破壞痕跡穿過破碎大地",
       "sr": "Prati trag razaranja kroz Slomljenu Zemlju",
       "hr": "Prati trag razaranja kroz Slomljenu Zemlju",
-      "pt-BR": "Siga o rastro de destruição através de Broken Earth",
+      "pt-BR": "Siga o rastro de destruição pela Terra Partida",
       "he": "עקוב אחר נתיב ההרס דרך האדמה השבורה"
     },
     {

@@ -48,7 +48,7 @@
     "zh-TW": "需要滑索才能到達塔頂。你找到的那些LiDAR掃描儀在高處效果最好。我在鏽帶周圍找到了幾個好位置；希望你腳步穩健。",
     "sr": "Potrebna je užad za spuštanje da se popnete na vrh tornja. Ti LiDAR skeneri koje ste pronašli najbolje funkcionišu kada se postave na visokim lokacijama. Identifikovao sam nekoliko dobrih mesta oko Pojasa hrđe; nadam se da ste sigurni na nogama.",
     "hr": "Potrebna je užad za spuštanje da se popnete na vrh tornja. Ti LiDAR skeneri koje ste pronašli najbolje funkcioniraju kada se postave na visokim lokacijama. Identificirao sam nekoliko dobrih mjesta oko Pojasa hrđe; nadam se da ste sigurni na nogama.",
-    "pt-BR": "Requer uma tirolesa para chegar ao topo da torre. Aqueles scanners LiDAR que você encontrou funcionam melhor quando colocados em locais altos. Identifiquei alguns bons pontos ao redor de Rust Belt; espero que você tenha o pé firme.",
+    "pt-BR": "Os Scanners DLeA que você achou funcionam melhor quando ficam em lugares altos. Identifiquei uns pontos bons pelo Cinturão da Ferrugem. Espero que você tenha pés firmes.",
     "he": "דורש אומגה כדי להגיע לראש המגדל. סורקי ה-LiDAR שמצאת עובדים הכי טוב כשהם מוצבים במקומות גבוהים. זיהיתי כמה נקודות טובות ברחבי ה-Rust Belt; אני מקווה שאתה יציב על הרגליים."
   },
   "objectives": [
@@ -71,7 +71,7 @@
       "zh-TW": "在大壩戰場的控制塔頂部安裝LiDAR掃描儀",
       "sr": "Na bojnom polju brane, instalirajte LiDAR skener na vrhu kontrolnog tornja",
       "hr": "Na bojnom polju brane, instalirajte LiDAR skener na vrhu kontrolnog tornja",
-      "pt-BR": "Em Dam Battlegrounds, instale um Scanner LiDAR no topo da Torre de Controle",
+      "pt-BR": "Nos Campos de Batalha da Represa, instale um scanner DLeA no topo da Torre de Controle",
       "he": "ב-Dam Battlegrounds, התקן סורק LiDAR בראש מגדל הפיקוח"
     },
     {
@@ -93,7 +93,7 @@
       "zh-TW": "在太空港的通訊塔安裝LiDAR掃描儀",
       "sr": "Na svemirskoj luci, instalirajte LiDAR skener na komunikacionom tornju",
       "hr": "Na svemirskoj luci, instalirajte LiDAR skener na komunikacijskom tornju",
-      "pt-BR": "Em Spaceport, instale um Scanner LiDAR na Torre de Comunicações",
+      "pt-BR": "No Espaçoporto, instale um scanner DLeA na Torre de Comunicação",
       "he": "ב-Spaceport, התקן סורק LiDAR במגדל התקשורת"
     },
     {
@@ -115,7 +115,7 @@
       "zh-TW": "在埋沒之城的購物中心招牌頂部安裝LiDAR掃描儀",
       "sr": "U Zakopanom gradu, instalirajte LiDAR skener na vrhu natpisa Galleria",
       "hr": "U Zakopanom gradu, instalirajte LiDAR skener na vrhu natpisa Galleria",
-      "pt-BR": "Na Cidade Soterrada, instale um Scanner LiDAR no topo do letreiro da Galleria",
+      "pt-BR": "Na Cidade Soterrada, instale um scanner DLeA no topo do letreiro da Galeria",
       "he": "ב-Buried City, התקן סורק LiDAR בראש השלט של ה-Galleria"
     }
   ],

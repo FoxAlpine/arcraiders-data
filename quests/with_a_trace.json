@@ -20,7 +20,7 @@
     "zh-TW": "追尋蹤跡",
     "sr": "Sa tragom",
     "hr": "Sa tragom",
-    "pt-BR": "Com Rastros",
+    "pt-BR": "Sem rastro",
     "he": "עם עקבות"
   },
   "map": [
@@ -46,7 +46,7 @@
     "zh-TW": "那台被擊落的機器……不是我們幹的。我們知道外面有倖存者，但這個？這遠遠超出了一個人的能力。",
     "sr": "Ta oborena mašina... Mi nismo to učinili. Znamo da tamo ima preživelih lutalica, ali ovo? Ovo daleko prevazilazi jednu osobu.",
     "hr": "Taj oboreni stroj... Mi nismo to učinili. Znamo da tamo ima preživjelih lutalica, ali ovo? Ovo daleko nadilazi jednu osobu.",
-    "pt-BR": "Aquela máquina abatida... Não fomos nós que fizemos aquilo. Sabemos que há sobreviventes perdidos por aí, mas isto? Isto vai muito além de uma única pessoa.",
+    "pt-BR": "Aquela máquina caída... Não foi a gente que fez aquilo. Sabemos que tem sobreviventes nômades lá fora, mas isso? Isso vai muito além de uma única pessoa.",
     "he": "המכונה המושבתת ההיא... לא אנחנו עשינו את זה. אנחנו יודעים שיש שורדים בודדים בחוץ, אבל זה? זה הרבה מעבר לאדם אחד."
   },
   "objectives": [
@@ -69,7 +69,7 @@
       "zh-TW": "到達荒蕪空地",
       "sr": "Stigni do Puste čistine",
       "hr": "Stigni do Puste čistine",
-      "pt-BR": "Chegue à Clareira Árida",
+      "pt-BR": "Vá até o Descampado Árido",
       "he": "הגע לקרחת היער השוממת"
     },
     {
@@ -91,7 +91,7 @@
       "zh-TW": "尋找擊落ARC機器的人的線索",
       "sr": "Pronađi znakove ko je oborio ARC mašine",
       "hr": "Pronađi znakove tko je oborio ARC strojeve",
-      "pt-BR": "Encontre sinais de quem derrubou as máquinas ARC",
+      "pt-BR": "Encontre indícios de quem derrubou as máquinas ARC",
       "he": "מצא סימנים למי שהפיל את מכונות ה-ARC"
     },
     {
@@ -113,7 +113,7 @@
       "zh-TW": "檢查裝飾過的殘骸",
       "sr": "Preglédaj ukrašene olupine",
       "hr": "Preglédaj ukrašene olupine",
-      "pt-BR": "Inspecione os Destroços Adornados",
+      "pt-BR": "Inspecione os Destroços Ornamentados",
       "he": "בדוק את ההריסות המקושטות"
     },
     {
@@ -135,7 +135,7 @@
       "zh-TW": "檢查通訊設備",
       "sr": "Preglédaj komunikacijski uređaj",
       "hr": "Preglédaj komunikacijski uređaj",
-      "pt-BR": "Inspecione o dispositivo de comunicação",
+      "pt-BR": "Investigue o dispositivo de comunicação",
       "he": "בדוק את מכשיר התקשורת"
     }
   ],

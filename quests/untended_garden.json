@@ -20,7 +20,7 @@
     "zh-TW": "無人照料的花園",
     "sr": "Neobrađena bašta",
     "hr": "Neobrađeni vrt",
-    "pt-BR": "Jardim Abandonado",
+    "pt-BR": "Jardim sem Cuidados",
     "he": "גן מוזנח"
   },
   "map": [
@@ -46,7 +46,7 @@
     "zh-TW": "根據你在實驗室找到的文件，栽培研究人員實際上就是在沼澤地建立水培穹頂的人。聽起來這是下一個最明顯的搜索地點，你不覺得嗎？",
     "sr": "Prema dokumentima koje si pronašao u laboratoriji, istraživači uzgoja su zapravo bili oni koji su postavili hidroponske kupole tamo u močvari. Zvuči kao najočiglednije mesto za sledeću pretragu, zar ne misliš?",
     "hr": "Prema dokumentima koje si pronašao u laboratoriju, istraživači uzgoja su zapravo bili oni koji su postavili hidroponske kupole tamo u močvari. Zvuči kao najočiglednije mjesto za sljedeću pretragu, zar ne misliš?",
-    "pt-BR": "De acordo com os arquivos que você encontrou no laboratório, os pesquisadores de cultivo foram, na verdade, quem montaram as cúpulas hidropônicas no pântano. Parece o lugar mais óbvio para procurar a seguir, não acha?",
+    "pt-BR": "De acordo com os arquivos que encontrou no laboratório, os pesquisadores de cultivo que montaram os domos hidropônicos lá no pântano. Parece o lugar mais óbvio para procurar agora, não acha?",
     "he": "לפי הקבצים שמצאת במעבדה, חוקרי החקלאות היו בעצם אלו שהקימו את הכיפות ההידרופוניות בביצה. נשמע כמו המקום הכי ברור לחפש בו עכשיו, לא?"
   },
   "objectives": [
@@ -69,7 +69,7 @@
       "zh-TW": "前往水培穹頂綜合體",
       "sr": "Idi do Kompleksa hidroponskih kupola",
       "hr": "Idi do Kompleksa hidroponskih kupola",
-      "pt-BR": "Vá para o Complexo de Cúpulas Hidropônicas",
+      "pt-BR": "Vá para o Complexo do Domo Hidropônico",
       "he": "לך למתחם הכיפות ההידרופוניות"
     },
     {
@@ -91,7 +91,7 @@
       "zh-TW": "訪問其中一個穹頂內的數據檔案",
       "sr": "Pristupi arhivi podataka u jednoj od kupola",
       "hr": "Pristupi arhivi podataka u jednoj od kupola",
-      "pt-BR": "Acesse o arquivo de dados em uma das cúpulas",
+      "pt-BR": "Acesse o arquivo de dados em um dos Domos",
       "he": "גש לארכיון הנתונים באחת הכיפות"
     },
     {
@@ -113,7 +113,7 @@
       "zh-TW": "將數據上傳到任意野外倉庫的計算機終端",
       "sr": "Otpremi podatke na kompjuterski terminal u bilo kom Terenskom Depou",
       "hr": "Otpremi podatke na računalni terminal u bilo kojem Terenskom Depou",
-      "pt-BR": "Envie os dados para o terminal de computador em qualquer Depósito de Campo",
+      "pt-BR": "Carregue os dados no terminal de computador em qualquer Depósito de Campo",
       "he": "העלה את הנתונים למסוף המחשב בכל מחסן שדה"
     }
   ],

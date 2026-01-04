@@ -20,7 +20,7 @@
     "zh-TW": "醫療用品",
     "sr": "Medicinska Roba",
     "hr": "Medicinska Roba",
-    "pt-BR": "Mercadoria Médica",
+    "pt-BR": "Mercadorias médicas",
     "he": "סחורה רפואית"
   },
   "map": [
@@ -48,7 +48,7 @@
     "zh-TW": "我已經很擅長用布料編織繃帶了，但令我羞愧的是，我還沒有掌握編織X光機或脈搏血氧儀的技術。",
     "sr": "Postao sam prilično veš u tkanju zavoja od Tkanine, ali na moju sramotu, nisam baš savladao tkanje rendgen aparata ili pulsnog oksimetra.",
     "hr": "Postao sam prilično vješt u tkanju zavoja od Tkanine, ali na moju sramotu, nisam baš savladao tkanje rendgen aparata ili pulsnog oksimetra.",
-    "pt-BR": "Fiquei muito habilidoso em tecer ataduras de Tecido, mas para minha vergonha, ainda não dominei a arte de tecer uma máquina de raio-x ou um oxímetro de pulso.",
+    "pt-BR": "Fiquei bem habilidoso em costurar ataduras com tecido, mas para minha vergonha, ainda não dominei a arte de tecer uma máquina de raios-X ou um oxímetro de pulso.",
     "he": "נהייתי די מוכשר באריגת תחבושות מבד, אבל לבושתי, עוד לא ממש הצלחתי לארוג מכונת רנטגן או מד רוויית חמצן."
   },
   "objectives": [
@@ -71,7 +71,7 @@
       "zh-TW": "在太空港，搜索出發大樓檢查室中的2個容器",
       "sr": "Na Svemirskoj Luci, pretraži 2 kontejnera u preglednim sobama zgrade za Odlaske",
       "hr": "Na Svemirskoj Luci, pretraži 2 kontejnera u preglednim sobama zgrade za Odlaske",
-      "pt-BR": "No Espaçoporto, vasculhe 2 contêineres nas salas de exame do Prédio de Embarque",
+      "pt-BR": "No Espaçoporto, procure em 2 contentores nas salas de inspeção do Prédio de Embarque",
       "he": "ב-Spaceport, חפש ב-2 מכולות בחדרי הבדיקה בבניין ההמראות"
     },
     {
@@ -93,7 +93,7 @@
       "zh-TW": "在埋藏之城的醫院中搜索3個容器",
       "sr": "Pretraži 3 kontejnera u Bolnici u Zakopanom Gradu",
       "hr": "Pretraži 3 kontejnera u Bolnici u Zakopanom Gradu",
-      "pt-BR": "Vasculhe 3 contêineres no Hospital na Cidade Enterrada",
+      "pt-BR": "Procure em 3 contentores no Hospital da Cidade Soterrada",
       "he": "חפש ב-3 מכולות בבית החולים ב-Buried City"
     },
     {
@@ -115,7 +115,7 @@
       "zh-TW": "在大壩戰場，搜索研究與行政大樓醫療室中的2個容器",
       "sr": "Na Bojnom Polju Brane, pretraži 2 kontejnera u medicinskoj sobi zgrade za Istraživanje i Administraciju",
       "hr": "Na Bojnom Polju Brane, pretraži 2 kontejnera u medicinskoj sobi zgrade za Istraživanje i Administraciju",
-      "pt-BR": "No Campo de Batalha da Represa, vasculhe 2 contêineres na sala médica do prédio de Pesquisa e Administração",
+      "pt-BR": "Nos Campos de Batalha da Represa, procure em 2 contentores na enfermaria do edifício de Pesquisa e Administração",
       "he": "ב-Dam Battlegrounds, חפש ב-2 מכולות בחדר הרפואי בבניין המחקר והמנהלה"
     }
   ],

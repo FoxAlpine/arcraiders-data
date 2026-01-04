@@ -20,7 +20,7 @@
     "zh-TW": "拍照與打撈",
     "sr": "Slikaj i Spasi",
     "hr": "Slikaj i Spasi",
-    "pt-BR": "Fotografar e Coletar",
+    "pt-BR": "Registro e Resgate",
     "he": "צלם ואסוף"
   },
   "map": [
@@ -46,7 +46,7 @@
     "zh-TW": "現在整個斯佩蘭札都在談論史特拉蒙蒂斯，我得承認，這也引起了我的興趣。就讓別人去弄清楚那些來龍去脈吧；我只對裡面的科技感興趣。",
     "sr": "Cela Speranza bruji o Stela Montisu ovih dana, i moram da priznam da je privukao i moju pažnju. Neka se drugi bave time šta je i kako je; mene zanima tehnologija unutra.",
     "hr": "Cijela Speranza bruji o Stella Montis ovih dana i moram priznati da je privukla i moju pažnju. Neka se drugi bave time što i kako; mene zanima tehnologija unutra.",
-    "pt-BR": "Speranza inteira está falando sobre Stella Montis agora, e admito que chamou minha atenção. Deixe os outros resolverem os porquês e comos; estou interessado na tecnologia lá dentro.",
+    "pt-BR": "Só se fala de Stella Montis em Speranza. Admito que fiquei curiosa também. Enquanto os outros se preocupam com o resto dos detalhes, eu quero é saber da tecnologia que tem lá dentro.",
     "he": "כל ספרנצה מדברת על סטלה מונטיס כרגע, ואני מודה שזה תפס את תשומת ליבי. תן לאחרים לשבור את הראש על ה\"מה\" וה\"איך\"; אותי מעניינת הטכנולוגיה שבפנים."
   },
   "objectives": [
@@ -69,7 +69,7 @@
       "zh-TW": "在沙盒區域為任意一台漫遊者拍一張照片",
       "sr": "Fotografiši bilo koji od rovera u Sandboxu",
       "hr": "Fotografiraj bilo koji od rovera u Sandboxu",
-      "pt-BR": "Tire uma foto de qualquer um dos Rovers em Sandbox",
+      "pt-BR": "Tire uma foto de qualquer um dos robôs exploradores na Área de Testes",
       "he": "צלם תמונה של אחד מהרוברים בארגז החול"
     },
     {
@@ -91,7 +91,7 @@
       "zh-TW": "搜查大廳旁安全檢查室裡的文件",
       "sr": "Pretraži papire u sobi Sigurnosne Kontrolne Tačke pored lobija",
       "hr": "Pretraži papire u sobi Sigurnosne Kontrolne Točke pored predvorja",
-      "pt-BR": "Vasculhe os papéis na sala do Ponto de Controle de Segurança perto do Lobby",
+      "pt-BR": "Procure os papéis na sala do Posto de Segurança perto do Saguão",
       "he": "חפש בניירות בחדר הבידוק הביטחוני ליד הלובי"
     },
     {

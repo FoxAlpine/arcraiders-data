@@ -20,7 +20,7 @@
     "zh-TW": "收拾殘局",
     "sr": "Sakupljanje Delova",
     "hr": "Sakupljanje Komada",
-    "pt-BR": "Juntando os Cacos",
+    "pt-BR": "Juntando as peças",
     "he": "לאסוף את השברים"
   },
   "trader": "Shani",
@@ -43,7 +43,7 @@
     "zh-TW": "風暴基本平息了，但我們的基礎設施遭受了嚴重破壞。如果你想留在我們這裡，我需要你在修復工作中出一份力。",
     "sr": "Oluja se uglavnom smirila, ali naša infrastruktura je prilično stradala. Ako nameravate da ostanete sa nama, moraću da tražim od vas da doprinesete u naporu popravke.",
     "hr": "Oluja se uglavnom smirila, ali naša infrastruktura je prilično stradala. Ako se nadate da ćete ostati s nama, morat ću od vas tražiti da doprinesete u naporu popravka.",
-    "pt-BR": "A tempestade praticamente passou, mas grande parte da nossa infraestrutura sofreu um belo estrago. Se espera ficar conosco, precisarei que faça sua parte nos esforços de reparo.",
+    "pt-BR": "A tempestade já se acalmou, mas boa parte da nossa infraestrutura ficou bem danificada. Se você quiser ficar com a gente, vou precisar que colabore com os reparos.",
     "he": "הסערה שככה ברובה, אבל הרבה מהתשתית שלנו חטפה מכה רצינית. אם אתה מקווה להישאר איתנו, אני צריך שתיתן יד במאמצי התיקון."
   },
   "objectives": [
@@ -66,7 +66,7 @@
       "zh-TW": "訪問地圖上任何帶有戰利品類別圖示的區域",
       "sr": "Posetite bilo koje područje na vašoj mapi sa ikonom kategorije plijena",
       "hr": "Posjetite bilo koje područje na vašoj karti sa ikonom kategorije plijena",
-      "pt-BR": "Visite qualquer área no seu mapa com um ícone de categoria de saque",
+      "pt-BR": "Vá para qualquer área do mapa com ícone de categoria de saque",
       "he": "בקר בכל אזור במפה שלך עם אייקון של קטגוריית שלל"
     },
     {
@@ -88,7 +88,7 @@
       "zh-TW": "搜刮3個容器",
       "sr": "Opljačkajte 3 kontejnera",
       "hr": "Opljačkajte 3 kontejnera",
-      "pt-BR": "Saqueie 3 contêineres",
+      "pt-BR": "Saqueie 3 contentores",
       "he": "אסוף שלל מ-3 מכלים"
     }
   ],

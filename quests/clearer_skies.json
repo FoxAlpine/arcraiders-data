@@ -43,7 +43,7 @@
     "zh-TW": "一群迷失方向的黃蜂墜落在我們的一個天窗附近。你需要在更多事故發生之前削減ARC的數量。另外，你能收集一些特別堅固的材料來修復損壞嗎？",
     "sr": "Roj dezorijentisanih osa se srušio blizu jednog od naših krovnih prozora. Moraš prorediti redove ARC-a pre nego što se dogodi još nesreća. I možeš li sakupiti neke posebno izdržljive materijale da popraviš štetu?",
     "hr": "Roj dezorijentiranih osa srušio se blizu jednog od naših krovnih prozora. Moraš prorediti redove ARC-a prije nego što se dogodi još nesreća. I možeš li sakupiti neke posebno izdržljive materijale da popraviš štetu?",
-    "pt-BR": "Um enxame de vespas desorientadas caiu perto de uma de nossas claraboias. Você precisa reduzir as fileiras da ARC antes que mais acidentes aconteçam. E pode coletar alguns materiais particularmente resistentes para reparar o dano?",
+    "pt-BR": "Um enxame de Vespas desorientadas caiu perto de uma claraboia. Preciso que você ajude a reduzir quantidade de ARC antes que acontençam mais acidentes, e junte materiais resistentes para consertar o estrago.",
     "he": "נחיל של צרעות מבולבלות התרסק ליד אחד מחלונות הגג שלנו. עליך לדלל את שורות ה-ARC לפני שיקרו תאונות נוספות. ותוכל לאסוף כמה חומרים עמידים במיוחד כדי לתקן את הנזק?"
   },
   "objectives": [
@@ -66,7 +66,7 @@
       "zh-TW": "消滅3個ARC敵人",
       "sr": "Uništite 3 ARC neprijatelja",
       "hr": "Uništite 3 ARC neprijatelja",
-      "pt-BR": "Destrua 3 inimigos da ARC",
+      "pt-BR": "Destrua 3 inimigos ARC",
       "he": "השמד 3 אויבי ARC"
     },
     {

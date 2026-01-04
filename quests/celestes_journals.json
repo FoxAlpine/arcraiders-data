@@ -20,7 +20,7 @@
     "zh-TW": "賽蕾絲特的日記",
     "sr": "Celestini Dnevnici",
     "hr": "Celestini Dnevnici",
-    "pt-BR": "Diários de Celeste",
+    "pt-BR": "Diários da Celeste",
     "he": "היומנים של סלסט"
   },
   "map": [
@@ -46,7 +46,7 @@
     "zh-TW": "好吧，這有點尷尬……我上次去地面檢查前哨站時弄丟了兩本日記。你能去那裡幫我找回來嗎？最好在別人發現之前找到它們。",
     "sr": "Dobro, ovo je nezgodno... Izgubila sam dva svoja dnevnika tokom inspekcije isturenih položaja prošli put kad sam bila na površini. Možeš li otići tamo i pokušati da ih pronađeš pre nego što neko drugi naiđe na njih?",
     "hr": "U redu, ovo je neugodno... Izgubila sam dva svoja dnevnika tijekom inspekcije isturenih položaja prošli put kad sam bila na površini. Možeš li otići tamo i pokušati ih pronaći prije nego što netko drugi naiđe na njih?",
-    "pt-BR": "Ok, isso é meio constrangedor... Eu perdi dois dos meus diários durante algumas inspeções em postos avançados na última vez que fui à superfície. Você poderia ir lá e tentar recuperá-los antes que outra pessoa os encontre?",
+    "pt-BR": "Entäo... estou meio sem graça. Perdi dois diários meus enquanto inspecionava uns postos avançados na última vez que subi a superficie. Voce pode ir lá e tentar encontrá-los antes que alguém os pegue?",
     "he": "אוקיי, אז זה מביך... איבדתי שניים מהיומנים שלי במהלך בדיקות במוצב בפעם האחרונה שעליתי לפני השטח. תוכל לצאת לשם ולנסות למצוא אותם לפני שמישהו אחר יתקל בהם?"
   },
   "objectives": [
@@ -69,7 +69,7 @@
       "zh-TW": "從南部沼澤前哨站取回賽蕾絲特的日記",
       "sr": "Preuzmi Celestine Dnevnike sa Južnog Močvarnog Isturenog Položaja",
       "hr": "Preuzmi Celestine Dnevnike s Južnog Močvarnog Isturenog Položaja",
-      "pt-BR": "Recupere os Diários de Celeste do Posto Avançado do Pântano Sul",
+      "pt-BR": "Recupere os Diários da Celeste do Posto Avançado do Sul do Pântano",
       "he": "השג את היומנים של סלסט ממוצב הביצה הדרומית"
     },
     {
@@ -91,7 +91,7 @@
       "zh-TW": "從俯瞰紅湖的北部前哨站取回賽蕾絲特的日記",
       "sr": "Preuzmi Celestine Dnevnike sa severnog isturenog položaja koji gleda na Crvena Jezera",
       "hr": "Preuzmi Celestine Dnevnike sa sjevernog isturenog položaja koji gleda na Crvena Jezera",
-      "pt-BR": "Recupere os Diários de Celeste do posto avançado ao norte com vista para os Lagos Vermelhos",
+      "pt-BR": "Recupere os Diários da Celeste do posto avançado ao norte, com vista para os Lagos Vermelhos",
       "he": "השג את היומנים של סלסט מהמוצב הצפוני המשקיף על האגמים האדומים"
     },
     {

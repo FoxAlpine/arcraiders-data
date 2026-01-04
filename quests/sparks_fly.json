@@ -20,7 +20,7 @@
     "zh-TW": "火花四濺",
     "sr": "Varnice lete",
     "hr": "Varnice lete",
-    "pt-BR": "Faíscas no Ar",
+    "pt-BR": "Faíscas para todos os Lados",
     "he": "גיצים באוויר"
   },
   "trader": "Apollo",
@@ -43,7 +43,7 @@
     "zh-TW": "如果運氣不好，那些黃蜂的攻擊真的會讓你吃不消。即使你摧毀了一個，也會浪費大量彈藥。我一直在研究一種更優雅的擊落方法。想來製造點火花嗎？",
     "sr": "Ubodi tih Horneta mogu stvarno da te unište, ako si nesrećan. A čak i ako uništiš jedan, i dalje trošiš gomilu municije. Radio sam na elegantnijim načinom da ih oborim. Hoćeš li da napraviš malo varnica?",
     "hr": "Ubodi tih Horneta mogu stvarno zeznuti te, ako si nesretan. A čak i ako uništiš jedan, i dalje trošiš gomilu streljiva. Radio sam na elegantnijim načinu da ih oborim. Želiš li napraviti malo varnica?",
-    "pt-BR": "Aquelas ferroadas de Vespa podem acabar com você, se der azar. E mesmo que destrua uma, ainda gasta muita munição. Estive trabalhando em uma maneira mais elegante de derrubá-las. Quer fazer voar algumas faíscas?",
+    "pt-BR": "Aquelas picadas de Marimbondos podem fazer um estrago, se der azar. E mesmo se destruir um, ainda vai gastar munição a beça. Tô trabalhado numa forma mais elegante de derrubá-los. A fim de soltar umas faíscas?",
     "he": "עקיצות ה-Hornet האלה יכולות ממש לשבש אותך אם אין לך מזל. וגם אם אתה משמיד אחד, אתה מבזבז טונות של תחמושת. עבדתי על דרך אלגנטית יותר להוריד אותם. מתאים לך להעיף קצת גיצים?"
   },
   "objectives": [
@@ -66,7 +66,7 @@
       "zh-TW": "使用觸發手雷或瞬爆摧毀黃蜂",
       "sr": "Uništi Hornet sa Trigger 'Nade ili Snap Blast",
       "hr": "Uništi Hornet sa Trigger 'Nade ili Snap Blast",
-      "pt-BR": "Destrua uma Vespa com uma Granada de Acionamento ou Snap Blast",
+      "pt-BR": "Destrua um Marimbondo com uma Granada de Gatilho ou Explode Rápido",
       "he": "השמד Hornet באמצעות Trigger 'Nade או Snap Blast"
     }
   ],

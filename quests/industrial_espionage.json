@@ -46,7 +46,7 @@
     "zh-TW": "我自己的藏匿點已經安全了，我想是時候密切關注一下競爭對手了，這樣就不會再發生這種事。",
     "sr": "Pošto su moje zalihe obezbeđene, mislim da je vreme da bolje pratim konkurenciju kako se ovo ne bi ponovilo.",
     "hr": "Sad kad su moje zalihe osigurane, mislim da je vrijeme da bolje pratim konkurenciju kako se ovo ne bi ponovilo.",
-    "pt-BR": "Com meus próprios estoques protegidos, acho que pode ser hora de ficar de olho na concorrência para que isso não aconteça de novo.",
+    "pt-BR": "Agora que meus estoques estão seguros, acho que está na hora de vigiar a concorrência para que isso não se repetir.",
     "he": "עכשיו כשהמאגרים שלי מאובטחים, אני חושב שהגיע הזמן לפקוח עין מקרוב יותר על המתחרים כדי שזה לא יקרה שוב."
   },
   "objectives": [
@@ -69,7 +69,7 @@
       "zh-TW": "在郊區加油站附近找到田文的武器藏匿點",
       "sr": "Pronađi Tian Wenovu ostavu oružja blizu benzinske pumpe u Predgrađu",
       "hr": "Pronađi Tian Wenovu ostavu oružja blizu benzinske postaje u Predgrađu",
-      "pt-BR": "Encontre o esconderijo de armas de Tian Wen perto do Posto de Gasolina nos Arredores",
+      "pt-BR": "Encontre o depósito de armas de Tian Wen perto do posto de gasolina na Periferia",
       "he": "מצא את מחסן הנשק של Tian Wen ליד תחנת הדלק ב-Outskirts"
     },
     {
@@ -91,7 +91,7 @@
       "zh-TW": "將Burletta送到對手的武器藏匿點",
       "sr": "Dostavi Burlettu do rivalske ostave oružja",
       "hr": "Dostavi Burlettu do suparničke ostave oružja",
-      "pt-BR": "Entregue a Burletta no esconderijo de armas rival",
+      "pt-BR": "Entregue a Burletta ao depósito de armas rival",
       "he": "העבר את ה-Burletta למחסן הנשק היריב"
     },
     {
@@ -113,7 +113,7 @@
       "zh-TW": "在武器藏匿點安裝竊聽器",
       "sr": "Postavi prisluškivač na ostavu oružja",
       "hr": "Postavi prisluškivač na ostavu oružja",
-      "pt-BR": "Coloque uma escuta no esconderijo de armas",
+      "pt-BR": "Instale um grampo no depósito de armas",
       "he": "שתול מכשיר ציתות במחסן הנשק"
     }
   ],

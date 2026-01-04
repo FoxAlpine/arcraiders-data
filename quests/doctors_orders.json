@@ -20,7 +20,7 @@
     "zh-TW": "醫生的命令",
     "sr": "Doktorova Naredba",
     "hr": "Doktorova Naredba",
-    "pt-BR": "Ordens do Médico",
+    "pt-BR": "Recomendaçöes do Médico",
     "he": "הוראות הרופא"
   },
   "trader": "Celeste",
@@ -43,7 +43,7 @@
     "zh-TW": "聽著，新手：如果你想讓我治療你，最好證明你那寶貴的四肢值得包紮。",
     "sr": "Slušaj, pridošlice: ako želiš da te lečim, bolje dokaži da tvoji dragoceni udovi zaslužuju zavoj.",
     "hr": "Slušaj, pridošlice: ako želiš da te liječim, bolje dokaži da tvoji dragocjeni udovi zaslužuju zavoj.",
-    "pt-BR": "Escuta, novato: se quiser que eu te trate, é melhor provar que esses seus membros preciosos valem a pena enfaixar.",
+    "pt-BR": "Olha, recruta: se quiser que eu te trate, vai ter que provar que vale a pena enfaixar esses membros de que você tanto gosta.",
     "he": "תקשיב, טירון: אם אתה רוצה שאטפל בך, כדאי שתוכיח שהגפיים היקרות שלך בכלל שוות חבישה."
   },
   "objectives": [
@@ -132,7 +132,7 @@
       "zh-TW": "獲得1個毛蕊花",
       "sr": "Pribavi 1 Veliki Divizam",
       "hr": "Pribavi 1 Veliki Divizam",
-      "pt-BR": "Obtenha 1 Verbasco",
+      "pt-BR": "Obtenha 1 Grande Verbasco",
       "he": "השג 1 בוצין"
     }
   ],

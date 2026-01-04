@@ -20,7 +20,7 @@
     "zh-TW": "保存記憶",
     "sr": "Čuvanje Uspomene",
     "hr": "Čuvanje Uspomene",
-    "pt-BR": "Mantendo a Memória",
+    "pt-BR": "Preservando a memória",
     "he": "לשמר את הזיכרון"
   },
   "map": [
@@ -46,7 +46,7 @@
     "zh-TW": "當我派你去處理那個陷阱時，我有點失控了。我通常不會發脾氣，但第一波行動...那時我們經歷了很多。失去了很多人。這對我來說仍然是一個未癒合的傷口，但我希望你能理解。",
     "sr": "Malo sam se iznervirao kada sam te poslao po tu zamku. Obično ne gubim živce, ali Prvi Talas... Prošli smo kroz mnogo toga tada. Izgubili smo mnogo ljudi. Još uvek je svež bol za mene, ali želim da razumeš.",
     "hr": "Malo sam se iznervirao kad sam te poslao po tu zamku. Obično ne gubim živce, ali Prvi Val... Prošli smo kroz mnogo toga tada. Izgubili smo mnogo ljudi. Još uvijek je svježa rana za mene, ali želim da razumiješ.",
-    "pt-BR": "Perdi um pouco a cabeça quando enviei você atrás daquela armadilha. Geralmente não perco a calma, mas a Primeira Onda... Passamos por muita coisa naquela época. Perdemos muita gente. Ainda é uma ferida aberta para mim, mas quero que você entenda.",
+    "pt-BR": "Perdi um pouco a cabeça quando te mandei atrás daquela armadilha. Não costumo perder a calma, mas a Primeira Onda... Nós passamos por muita coisa naquela época. Perdemos muita gente. Ainda é uma ferida aberta para mim, mas quero que você entenda.",
     "he": "איבדתי את קור הרוח כששלחתי אותך למלכודת ההיא. אני בדרך כלל לא מאבד את העשתונות, אבל ה-First Wave... עברנו הרבה אז. איבדנו הרבה אנשים. זה עדיין פצע פתוח אצלי, אבל חשוב לי שתבין."
   },
   "objectives": [
@@ -69,7 +69,7 @@
       "zh-TW": "到達Formicai山丘的殘骸處",
       "sr": "Stigni do olupine u Formicai Hillsu",
       "hr": "Stigni do olupine u Formicai Hillsu",
-      "pt-BR": "Chegue aos destroços nas Colinas Formicai",
+      "pt-BR": "Alcançar a carcaça nas Colinas Formicai",
       "he": "הגע להריסות ב-Formicai Hills"
     },
     {
@@ -91,7 +91,7 @@
       "zh-TW": "尋找遺失的頭盔",
       "sr": "Potraži nestalu kacigu",
       "hr": "Potraži nestalu kacigu",
-      "pt-BR": "Procure pelo capacete desaparecido",
+      "pt-BR": "Procure o capacete desaparecido",
       "he": "חפש את הקסדה החסרה"
     },
     {

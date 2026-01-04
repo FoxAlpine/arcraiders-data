@@ -20,7 +20,7 @@
     "zh-TW": "切換供應",
     "sr": "Promena Snabdevanja",
     "hr": "Promjena Opskrbe",
-    "pt-BR": "Desviando o Abastecimento",
+    "pt-BR": "Troca de Suprimentos",
     "he": "הטיית האספקה"
   },
   "map": [
@@ -46,7 +46,7 @@
     "zh-TW": "太空港下面有一個水庫；如果我們能把那裡的水引到這裡，就能為我們爭取時間來處理污染問題。",
     "sr": "Postoji rezervoar ispod Svemirske Luke; ako uspemo da preusmerimo tu vodu ovde, to bi trebalo da nam kupi vreme da se pozabavimo kontaminacijom.",
     "hr": "Postoji rezervoar ispod Svemirske Luke; ako uspijemo preusmjeriti tu vodu ovamo, to bi nam trebalo kupiti vrijeme da se pozabavimo kontaminacijom.",
-    "pt-BR": "Há um reservatório sob o Espaçoporto; se conseguirmos desviar essa água para cá, isso deve nos dar tempo para lidar com a contaminação.",
+    "pt-BR": "Há um reservatório embaixo do Espaçoporto. Se conseguirmos desviar a água para cá, vamos ganhar tempo para lidar com a contaminação.",
     "he": "יש מאגר מים מתחת לנמל החלל; אם נצליח לנתב את המים משם לכאן, זה אמור לקנות לנו זמן לטפל בזיהום."
   },
   "objectives": [

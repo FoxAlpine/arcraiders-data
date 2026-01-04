@@ -47,7 +47,7 @@
     "zh-TW": "你知道我最近在夢想什麼嗎？一個會說話的淨水器！瘋狂吧？但說真的，有了更純淨的化合物，我就能製造更強勁的炸藥！那不是很棒嗎？",
     "sr": "Znaš o čemu sanjam u poslednje vreme? O destileru vode koji priča! Ludo, zar ne? Ali ozbiljno, sa čistijim jedinjenjima mogao bih da pravim eksploziv sa više snage! To bi bilo nešto, zar ne?",
     "hr": "Znaš o čemu sanjam u posljednje vrijeme? O destileru vode koji priča! Ludo, zar ne? Ali ozbiljno, s čišćim spojevima mogao bih praviti eksploziv s više snage! To bi bilo nešto, zar ne?",
-    "pt-BR": "Sabe com o que tenho sonhado ultimamente? Um destilador de água falante! Loucura, né? Mas falando sério, com compostos mais puros eu poderia fazer explosivos com mais potência! Seria incrível, né?",
+    "pt-BR": "Apollo quer novos filtros de água",
     "he": "אתם יודעים על מה חלמתי לאחרונה? מזקק מים מדבר! מטורף, אה? אבל ברצינות, עם תרכובות טהורות יותר אני יכול להכין חומרי נפץ עם יותר עוצמה! זה יהיה משהו, נכון?"
   },
   "objectives": [
@@ -70,7 +70,7 @@
       "zh-TW": "在太空港，搜索地下隧道中的4個貨櫃",
       "sr": "Na Svemirskoj luci, pretraži 4 kontejnera u podzemnim tunelima",
       "hr": "Na Svemirskoj luci, pretraži 4 kontejnera u podzemnim tunelima",
-      "pt-BR": "No Porto Espacial, vasculhe 4 contêineres nos túneis subterrâneos",
+      "pt-BR": "No Espaçoporto, procura 4 contentores nos túneis subterrâneos",
       "he": "בנמל החלל, חפשו ב-4 מכולות במנהרות התת-קרקעיות"
     },
     {
@@ -114,7 +114,7 @@
       "zh-TW": "在藍色之門，前往維修地堡",
       "sr": "Na Blue Gate, poseti Bunker za održavanje",
       "hr": "Na Blue Gate, posjeti Bunker za održavanje",
-      "pt-BR": "No Portão Azul, visite o Bunker de Manutenção",
+      "pt-BR": "No Portão Azul, acesse a Casamata de Manutenção",
       "he": "בשער הכחול, בקרו בבונקר התחזוקה"
     },
     {
@@ -136,7 +136,7 @@
       "zh-TW": "在地堡中監控淨化系統",
       "sr": "Nadgledaj sistem za prečišćavanje u bunkeru",
       "hr": "Nadgledaj sustav pročišćavanja u bunkeru",
-      "pt-BR": "Monitore o Sistema de Purificação no bunker",
+      "pt-BR": "Monitore o Sistema de Purificação na casamata",
       "he": "נטרו את מערכת הטיהור בבונקר"
     },
     {
@@ -158,7 +158,7 @@
       "zh-TW": "在地堡中找到並拍攝藍圖",
       "sr": "Pronađi i fotografiši nacrte u bunkeru",
       "hr": "Pronađi i fotografiraj nacrte u bunkeru",
-      "pt-BR": "Encontre e fotografe os projetos no bunker",
+      "pt-BR": "Encontre e fotografe os esquemas na casamata",
       "he": "מצאו וצלמו את השרטוטים בבונקר"
     }
   ],

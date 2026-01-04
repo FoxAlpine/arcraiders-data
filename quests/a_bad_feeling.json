@@ -20,7 +20,7 @@
     "zh-TW": "不祥的預感",
     "sr": "Loš Predosećaj",
     "hr": "Loš Predosjećaj",
-    "pt-BR": "Um Mau Pressentimento",
+    "pt-BR": "Mal pressentimento",
     "he": "תחושה רעה"
   },
   "trader": "Celeste",
@@ -43,7 +43,7 @@
     "zh-TW": "ARC行為上哪怕最微小的變化都可能意味著災難。而你截獲的那個信號？我們以前從未截獲過這樣的東西。如果他們在策劃什麼，我們必須查明是什麼。",
     "sr": "Čak i najmanja promena u ponašanju ARC-a može da znači katastrofu. A onaj signal koji si uhvatio? Nikada ranije nismo presreli nešto slično. Ako nešto planiraju, moramo da saznamo šta je to.",
     "hr": "Čak i najmanja promjena u ponašanju ARC-a može značiti katastrofu. A onaj signal koji si uhvatio? Nikada prije nismo presreli nešto slično. Ako nešto planiraju, moramo saznati što je to.",
-    "pt-BR": "Até a menor mudança no comportamento das ARC pode significar uma catástrofe. E aquele sinal que você captou? Nunca interceptamos nada parecido antes. Se elas estiverem planejando algo, temos que descobrir o que é.",
+    "pt-BR": "Qualquer mínima mudança no comportamento das ARCs pode significar um desastre. Sabe o sinal que você ouviu? Nunca captamos algo do tipo. Se elas estão tramando algo, temos que descobrir o que é.",
     "he": "אפילו השינוי הקטן ביותר בהתנהגות של ה-ARC עלול להוביל לאסון. והאות שקלטת? מעולם לא יירטנו שום דבר דומה לזה. אם הם מתכננים משהו, אנחנו חייבים לגלות מה זה."
   },
   "objectives": [
@@ -66,7 +66,7 @@
       "zh-TW": "尋找並搜索任意ARC探測器或ARC運輸船",
       "sr": "Pronađite i pretražite bilo koju ARC Sondu ili ARC Kurira",
       "hr": "Pronađite i pretražite bilo koju ARC Sondu ili ARC Kurira",
-      "pt-BR": "Encontre e vasculhe qualquer Sonda ARC ou Mensageiro ARC",
+      "pt-BR": "Encontre e vasculhe qualquer Sonda ARC ou Emissário ARC",
       "he": "מצא ובצע חיפוש על כל ARC Probe או ARC Courier"
     }
   ],

@@ -49,7 +49,7 @@
     "zh-TW": "你猜怎麼著？莎妮讓我幫忙做點事，這次我真的很高興她這麼做了。我們要在地面上建立新的前哨站！或者說，至少是在計劃這麼做。你能相信嗎？",
     "sr": "Pogodi šta? Shani me je zamolila da pomognem oko nečega, i jednom prilikom, zaista sam srećna što je to učinila. Postavljamo nove isturene položaje na površini! Ili, bar planiramo. Možeš li da poveruješ?",
     "hr": "Pogodi što? Shani me je zamolila da pomognem oko nečega, i jednom prilikom, zaista sam sretna što je to učinila. Postavljamo nove isturene položaje na površini! Ili, barem planiramo. Možeš li vjerovati?",
-    "pt-BR": "Adivinha só? A Shani me pediu uma ajuda com uma coisa e, pela primeira vez, estou realmente feliz que ela tenha pedido. Estamos montando novos postos avançados na superfície! Ou, pelo menos, planejando. Dá para acreditar?",
+    "pt-BR": "Adivinha? A Shani me chamou pra ajudar com uma coisa e, pela primeira vez, eu até que fiquei feliz. Vamos montar novos postos avançados na superfície! Bom, estamos planejando, pelo menos. Acredita?",
     "he": "נחשו מה? Shani ביקשה ממני עזרה במשהו, ולשם שינוי, אני דווקא שמח מכך. אנחנו מקימים מוצבים חדשים על פני השטח! או לפחות מתכננים את זה. אתם מאמינים?"
   },
   "objectives": [
@@ -72,7 +72,7 @@
       "zh-TW": "在大壩戰場標記圖案屋",
       "sr": "Na Ratištu Brane, označi Kuću Uzoraka",
       "hr": "Na Ratištu Brane, označi Kuću Uzoraka",
-      "pt-BR": "Em Dam Battlegrounds, marque a Pattern House",
+      "pt-BR": "Nos Campos de Batalha da Represa, marque a Casa Desenhada",
       "he": "ב-Dam Battlegrounds, סמנו את ה-Pattern House"
     },
     {
@@ -94,7 +94,7 @@
       "zh-TW": "在藍門標記倉庫綜合體南側的白色瞭望塔",
       "sr": "Na Plavoj Kapiji, označi belu osmatračnicu južno od Skladišnog Kompleksa",
       "hr": "Na Plavim Vratima, označi bijelu osmatračnicu južno od Skladišnog Kompleksa",
-      "pt-BR": "Em The Blue Gate, marque a torre de vigia branca ao sul do Complexo de Armazéns",
+      "pt-BR": "No Portão Azul, marque a torre de vigia branca ao sul do Complexo de Armazéns",
       "he": "ב-The Blue Gate, סמנו את מגדל התצפית הלבן מדרום למתחם המחסנים"
     },
     {
@@ -116,7 +116,7 @@
       "zh-TW": "在太空港標記南部戰壕塔",
       "sr": "Na Svemirskoj Luci, označi Južni Rovovski Toranj",
       "hr": "Na Svemirskoj Luci, označi Južni Rovovski Toranj",
-      "pt-BR": "Em Spaceport, marque a Torre da Trincheira Sul",
+      "pt-BR": "No Espaçoporto, marque a Torre de Trincheira da Vala Sul",
       "he": "ב-Spaceport, סמנו את מגדל התעלה הדרומי"
     },
     {
@@ -138,7 +138,7 @@
       "zh-TW": "在埋葬之城標記埋葬區域中有壁畫的建築",
       "sr": "U Zakopanom Gradu, označi zgradu sa muralom u Zakopanim Posedima",
       "hr": "U Zakopanom Gradu, označi zgradu s muralom u Zakopanim Posjedima",
-      "pt-BR": "Em Buried City, marque o prédio com o mural em Buried Properties",
+      "pt-BR": "Na Cidade Soterrada, marque o edifício com o mural em Propriedades Soterradas",
       "he": "ב-Buried City, סמנו את הבניין עם ציור הקיר ב-Buried Properties"
     }
   ],

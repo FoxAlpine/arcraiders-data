@@ -43,7 +43,7 @@
     "zh-TW": "你是新來的吧？我需要一名志願者來測試這把強化過的 Ferro──理論上應該能像切奶油一樣切開 ARC 裝甲。把幾台機器打成蜂窩後再回來向我報告。",
     "sr": "Ti si jedan od novajlija, zar ne? Treba mi dobrovoljac da isproba ovaj unapređeni Ferro  trebalo bi da seče ARC oklop kao puter. Izbuši par mašina i onda mi podnesi izveštaj.",
     "hr": "Ti si jedan od novopridošlih, zar ne? Treba mi dobrovoljac koji će isprobati ovaj unaprijeđeni Ferro  trebao bi rezati ARC oklop kao maslac. Izbuši par strojeva i onda mi se javi s izvješćem.",
-    "pt-BR": "Você é um dos novatos, certo? Preciso de um voluntário para testar este Ferro aprimorado, deve cortar a blindagem ARC como manteiga. Faça alguns buracos em algumas máquinas e depois volte para se apresentar.",
+    "pt-BR": "Você faz parte dos recém-chegados, né? Preciso de alguém para testar esse Ferro aprimorado. Ele deve atravessar a blindagem ARC que nem manteiga. Enche umas máquinas de buracos e depois me fala.",
     "he": "אתם מהחדשים, נכון? אני צריך מתנדב שינסה את ה-Ferro המשודרג הזה – הוא אמור לחתוך שריון ARC כמו חמאה. עשו כמה חורים בכמה מכונות ותחזרו לדווח לי."
   },
   "objectives": [
@@ -88,7 +88,7 @@
       "zh-TW": "摧毀大黃蜂",
       "sr": "Uništite Stršljena",
       "hr": "Uništite Stršljena",
-      "pt-BR": "Destrua uma Vespa",
+      "pt-BR": "Destrua um Marimbondo",
       "he": "השמידו Hornet"
     },
     {
